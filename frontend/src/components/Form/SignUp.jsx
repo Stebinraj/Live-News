@@ -109,7 +109,7 @@ const SignUp = () => {
         try {
             e.preventDefault();
             if (validateName() & validateEmail() & validatePassword()) {
-                const response = await axios.post(`${process.env.BASE_URL}/register`, { name: name.name, email: email.email, password: password.password });
+                const response = await axios.post('/api/register', { name: name.name, email: email.email, password: password.password });
                 if (response && response.data.success.data && response.data.success.token) {
                     alert('Registered Sucessfully')
                     navigate('/', { replace: true });
