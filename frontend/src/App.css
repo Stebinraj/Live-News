@@ -1,0 +1,15 @@
+.read-more {
+    color: blue;
+}
+
+.read-more:hover {
+    cursor: pointer;
+}
+
+.read-less {
+    color: red;
+}
+
+.read-less:hover {
+    cursor: pointer;
+}
