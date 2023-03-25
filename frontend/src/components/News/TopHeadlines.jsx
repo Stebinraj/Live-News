@@ -15,8 +15,10 @@ const TopHeadlines = (props) => {
         const getTopHeadlines = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
-                setTopHeadlines(response.data.articles);
+                const response = await axios.get(`https://newsapi.org/v2/top-headlines?country=in&apiKey=${process.env.NEWS_API_KEY}`);
+                if (response && response.data) {
+                    setTopHeadlines(response.data.articles);
+                }
             } catch (error) {
                 console.error(error.message);
             } finally {
@@ -29,8 +31,8 @@ const TopHeadlines = (props) => {
 
     return (
         <>
-            {/* {props.token ? ( */}
-                {/* <> */}
+            {props.token ? (
+                <>
                     {isLoading ? (<LoadingScreen />) : (
                         <>
                             <Grid container spacing={2}>
@@ -86,8 +88,8 @@ const TopHeadlines = (props) => {
                             </Grid>
                         </>
                     )}
-                {/* </> */}
-            {/* // ) : (null)} */}
+                </>
+            ) : (null)}
         </>
     )
 }

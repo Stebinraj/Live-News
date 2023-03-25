@@ -86,7 +86,7 @@ const Login = () => {
         try {
             e.preventDefault();
             if (validateEmail() & validatePassword()) {
-                const response = await axios.post('/api/login', { email: email.email, password: password.password });
+                const response = await axios.post(`${process.env.BASE_URL}/login`, { email: email.email, password: password.password });
                 if (response && response.data.success.existingUser && response.data.success.token) {
                     sessionStorage.setItem('Token', response.data.success.token);
                     alert('Login Sucessfully')
