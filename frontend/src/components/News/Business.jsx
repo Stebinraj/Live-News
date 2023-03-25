@@ -15,13 +15,7 @@ const Business = (props) => {
         const getBusiness = async () => {
             try {
                 setIsLoading(true);
-                // const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
-                const response = await axios.get('/api/business',{
-                    headers: {
-                      'http2': true,
-                      'User-Agent': 'axios/0.21.1'
-                    }
-                  });
+                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
                 setBusiness(response.data.articles);
             } catch (error) {
                 console.error(error.message);

@@ -136,17 +136,4 @@ router.post('/api/login', async (req, res) => {
 
 })
 
-router.get('/api/business', async (req, res) => {
-    const apiUrl = 'https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe';
-
-    try {
-        const response = await fetch(apiUrl);
-        const data = await response.json();
-        res.send(data);
-    } catch (error) {
-        console.error(error);
-    }
-});
-
-
 module.exports = router;
