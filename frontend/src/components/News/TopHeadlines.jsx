@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Card, CardContent, CardMedia, Grid, Typography } from '@mui/material';
 import { Box } from '@mui/system';
 import axios from 'axios';
@@ -8,10 +8,10 @@ import ShowMoreText from 'react-show-more-text';
 
 const TopHeadlines = (props) => {
 
-    const [topHeadlines, setTopHeadlines] = React.useState([]);
-    const [isLoading, setIsLoading] = React.useState(false);
+    const [topHeadlines, setTopHeadlines] = useState([]);
+    const [isLoading, setIsLoading] = useState(false);
 
-    React.useEffect(() => {
+    useEffect(() => {
         const getTopHeadlines = async () => {
             try {
                 setIsLoading(true);
@@ -29,8 +29,8 @@ const TopHeadlines = (props) => {
 
     return (
         <>
-            {props.token ? (
-                <>
+            {/* {props.token ? ( */}
+                {/* <> */}
                     {isLoading ? (<LoadingScreen />) : (
                         <>
                             <Grid container spacing={2}>
@@ -86,8 +86,8 @@ const TopHeadlines = (props) => {
                             </Grid>
                         </>
                     )}
-                </>
-            ) : (null)}
+                {/* </> */}
+            {/* // ) : (null)} */}
         </>
     )
 }
