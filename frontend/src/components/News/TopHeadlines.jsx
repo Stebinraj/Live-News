@@ -15,7 +15,7 @@ const TopHeadlines = (props) => {
         const getTopHeadlines = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
+                const response = await axios.get('/api/topheadlines');
                 if (response && response.data) {
                     setTopHeadlines(response.data.articles);
                 }

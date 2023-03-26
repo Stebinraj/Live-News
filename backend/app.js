@@ -4,6 +4,7 @@ const cors = require('cors');
 const morgan = require('morgan');
 const dotenv = require('dotenv');
 const usersRoute = require('./routes/usersRoute');
+const newsRoute = require('./routes/newsRoute');
 
 dotenv.config();
 
@@ -18,6 +19,7 @@ mongoose.set('strictQuery', true);
 mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true });
 
 app.use(usersRoute);
+app.use(newsRoute);
 
 app.listen(process.env.PORT, () => {
     console.log(`Server is running on PORT ${process.env.PORT}`);
