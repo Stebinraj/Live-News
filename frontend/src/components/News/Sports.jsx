@@ -15,8 +15,10 @@ const Sports = (props) => {
         const getSports = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
-                setSports(response.data.articles);
+                const response = await axios.post('/api/sports', { token: props.token });
+                if (response && response.data.token && response.data.sports) {
+                    setSports(response.data.sports.articles);
+                }
             } catch (error) {
                 console.error(error.message);
             } finally {
@@ -24,7 +26,7 @@ const Sports = (props) => {
             }
         }
         getSports();
-    }, [])
+    }, [props.token])
 
     return (
         <>

@@ -19,7 +19,6 @@ app.use(morgan('dev'));
 mongoose.set('strictQuery', true);
 mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true });
 
-
 app.use(express.static(path.join(__dirname, '/build')));
 
 app.use(usersRoute);

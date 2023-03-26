@@ -15,9 +15,9 @@ const TopHeadlines = (props) => {
         const getTopHeadlines = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.get('/api/topheadlines');
-                if (response && response.data) {
-                    setTopHeadlines(response.data.articles);
+                const response = await axios.post('/api/topheadlines', { token: props.token });
+                if (response && response.data.token && response.data.topHeadlines) {
+                    setTopHeadlines(response.data.topHeadlines.articles);
                 }
             } catch (error) {
                 console.error(error.message);
@@ -26,7 +26,7 @@ const TopHeadlines = (props) => {
             }
         }
         getTopHeadlines();
-    }, [])
+    }, [props.token])
 
 
     return (

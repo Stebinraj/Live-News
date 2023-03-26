@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET HealthWorld",
+            "title": "Vaccination halves risk of long COVID, study shows - ETHealthWorld",
+            "description": "Long COVID is a complex condition that develops during or after having COVID, and it is classified as such when symptoms continue for more than 12 weeks:  Vassilios Vassiliou",
+            "url": "https://health.economictimes.indiatimes.com/news/industry/vaccination-halves-risk-of-long-covid-study-shows/98982779",
+            "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-98982779,imgsize-5432,width-1200,height-628,overlay-ethealthworld/vaccination-halves-risk-of-long-covid-study-shows.jpg",
+            "publishedAt": "2023-03-25T01:26:00Z",
+            "content": "New Delhi: Being vaccinated against the SARS-CoV-2 virus halves people's risk of developing long COVID, according to the largest study of its kind. The research, published in the journal JAMA Interna… [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EurekAlert"
+            },
+            "author": null,
+            "title": "Antibiotics do not reduce risk of dying in adults hospitalised with common respiratory infections, suggests study - EurekAlert",
+            "description": "Most patients admitted to hospital with acute viral respiratory infections are given antibiotics. Now new research to be presented at this year’s European Congress of Clinical Microbiology & Infectious Diseases (ECCMID) in Copenhagen, Denmark (15-18 April), s…",
+            "url": "https://www.eurekalert.org/news-releases/983658",
+            "urlToImage": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+            "publishedAt": "2023-03-24T22:04:34Z",
+            "content": "**Note: the release below is a special early release from the European Congress of Clinical Microbiology &amp; Infectious Diseases (ECCMID 2023, Copenhagen, 15-18 April). Please credit the congress i… [+8979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Everyday Health"
+            },
+            "author": "Becky Upham",
+            "title": "Traffic Noise and Air Pollution Linked to High Blood Pressure - Everyday Health",
+            "description": "Noisy street sounds aren’t just irritating — they can actually raise your blood pressure and increase the risk of heart attack and stroke.",
+            "url": "https://www.everydayhealth.com/hypertension/loud-road-noise-linked-to-increased-risk-of-high-blood-pressure/",
+            "urlToImage": "https://images.everydayhealth.com/images/noise-pollution-from-traffic-can-lead-to-high-blood-pressure-1440x810.jpg?sfvrsn=920601b_1",
+            "publishedAt": "2023-03-24T20:39:18Z",
+            "content": "Wailing sirens, aggressive horns, the roaring engines of giant diesel trucks most of us would agree road noise is super annoying, but is it actually harmful to your health? A new study published on M… [+7167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Millenniumpost.in"
+            },
+            "author": "Team MP",
+            "title": "50% of respiratory infection cases are of H3N2, says govt - Millennium Post",
+            "description": "New Delhi: An ICMR survey has shown that 50 per cent of the respiratory infection cases admitted to hospitals in over two month are of H3N2 influenza, the government told the Lok Sabha on Friday.A...",
+            "url": "https://www.millenniumpost.in/nation/50-of-respiratory-infection-cases-are-of-h3n2-says-govt-512839",
+            "urlToImage": "https://www.millenniumpost.in/images/logo.png",
+            "publishedAt": "2023-03-24T18:33:42Z",
+            "content": "New Delhi: An ICMR survey has shown that 50 per cent of the respiratory infection cases admitted to hospitals in over two month are of H3N2 influenza, the government told the Lok Sabha on Friday.\r\nA … [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Sneha Santuka",
+            "title": "High-fat diet can rewire brain to crave sweets - Sportskeeda",
+            "description": "New evidence suggests that regularly consuming a high-sugar, high-fat diet can condition the brain to seek out sweets.",
+            "url": "https://www.sportskeeda.com/health-and-fitness/high-fat-diet-can-rewire-brain-crave-sweets",
+            "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/d5cd8-16796813245071-1920.jpg",
+            "publishedAt": "2023-03-24T18:28:00Z",
+            "content": "New evidence suggests that regularly consuming a high-sugar, high-fat diet can condition the brain to seek out sweets.\r\nThe study's findings were published in the journal Cell Metabolism on Wednesday… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "WION Web Team",
+            "title": "SARS-CoV-2 virus can alter our DNA, lead to long Covid: Study - WION",
+            "description": "SARS-CoV-2 virus can alter our DNA, lead to long Covid: Study",
+            "url": "https://www.wionews.com/science/sars-cov-2-virus-can-alter-our-dna-lead-to-long-covid-study-575438",
+            "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/03/24/340840-wion-images-29.png",
+            "publishedAt": "2023-03-24T17:57:10Z",
+            "content": "A recent study published in the journal Nature Microbiology found that people infected with the SARS-CoV-2 virus might experience changes in their genome structure that could explain their immunity-r… [+2589 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gavi.org"
+            },
+            "author": null,
+            "title": "Could drugs to prevent Long COVID finally be within reach? - Gavi, the Vaccine Alliance",
+            "description": "Two new studies have suggested that existing diabetes and antiviral drugs could be repurposed to prevent symptoms of COVID-19.",
+            "url": "https://www.gavi.org/vaccineswork/could-drugs-prevent-long-covid-finally-be-within-reach",
+            "urlToImage": "https://www.gavi.org/sites/default/files/vaccineswork/2023/Header/pexels-jeshootscom-576831_h1.jpg",
+            "publishedAt": "2023-03-24T17:21:18Z",
+            "content": "The discovery that dexamethasone reduced people's chances of dying from COVID-19 marked a crucial turning point in the pandemic but identifying drugs that prevent the longer-term consequences of infe… [+4597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Police1.com"
+            },
+            "author": null,
+            "title": "Making workouts count: How to workout SMARTer, not harder - Police News",
+            "description": "Ditch the \"all-or-nothing\" attitude and replace it with \"a little goes a long way\" approach by following these five steps",
+            "url": "https://www.police1.com/wellness-week/articles/making-workouts-count-how-to-workout-smarter-not-harder-l4JtXiiisv6Ggb47/",
+            "urlToImage": "https://media.cdn.lexipol.com/article-images/jogger-1379443_1280.jpg?w=1600&format=jpg&quality=87&crop=41%2C0%2C1280%2C720",
+            "publishedAt": "2023-03-24T17:08:07Z",
+            "content": "We all know that exercise improves our energy, mood, sleep and health. But making exercise a habit especially when working long shifts is easier said than done.\r\nThats why officers need to take a SMA… [+5377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Indian Express"
+            },
+            "author": "IANS",
+            "title": "Covid-like virus in native UK bats raises spillover risk: Scientists - The New Indian Express",
+            "description": "The scientists, including from the Imperial College London and the University of Nottingham, screened for coronaviruses 48 faecal samples from 16 of the 17 bat species breeding in the UK.",
+            "url": "https://www.newindianexpress.com/world/2023/mar/24/covid-like-virus-in-native-uk-bats-raises-spillover-risk-scientists-2559180.html",
+            "urlToImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/12/26/w600X390/covid-19-g6954a16e7_1920.jpg",
+            "publishedAt": "2023-03-24T16:44:00Z",
+            "content": "NEW DELHI: A team of international scientists have identified new bat species native to the UK that carry a Covid-like virus, and maybe just a few mutations away from infecting humans.\r\nThe scientist… [+3253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cureus.com"
+            },
+            "author": null,
+            "title": "Assessment of Knowledge of and Attitude Toward Oral Cancer Among the Outpatient Population in a Tertiary Care Rural Hospital - Cureus",
+            "description": "Introduction\r\n\r\nLack of knowledge and awareness about oral cancer and its risk factors and negligence of the early warning signs play a crucial role in raising the incidence of the disease. Therefore, the aim of this present study is to assess the awareness o…",
+            "url": "https://www.cureus.com/articles/139797-assessment-of-knowledge-of-and-attitude-toward-oral-cancer-among-the-outpatient-population-in-a-tertiary-care-rural-hospital",
+            "urlToImage": "https://assets.cureus.com/uploads/figure/file/584561/article_river_fb6c3c00c29a11edb64b2b91a0c811ef-NEW-2-1-.png",
+            "publishedAt": "2023-03-24T16:30:08Z",
+            "content": "\"Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.\"\r\nMargaret Mead"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ANI News"
+            },
+            "author": null,
+            "title": "Cervical cancer risk twice as high in women with mental disorder: Study - ANI News",
+            "description": "Women suffering from mental illness, neuropsychiatric disability, or substance addiction are less likely to undergo gynaecological screening tests for cervical cancer and are more than twice as likely to develop the disease.",
+            "url": "https://www.aninews.in/news/health/cervical-cancer-risk-twice-as-high-in-women-with-mental-disorder-study20230324215722",
+            "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230324162714.jpg",
+            "publishedAt": "2023-03-24T16:27:00Z",
+            "content": "Solna [Sweden], March 24 (ANI): Women suffering from mental illness, neuropsychiatric disability, or substance addiction are less likely to undergo gynaecological screening tests for cervical cancer … [+2709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thehealthsite.com"
+            },
+            "author": "Kinkini Gupta",
+            "title": "Marburg Virus Outbreak: Tanzania And Equatorial Guinea Reports 17 Cases And 5 Deaths | TheHealthSite.com - TheHealthSite",
+            "description": "Countries of Tanzania and Equatorial Guinea reports cases and fatalities from the deadly Marburg Virus. TheHealthSite.com",
+            "url": "https://www.thehealthsite.com/news/marburg-virus-outbreak-tanzania-and-equatorial-guinea-reports-17-cases-and-5-deaths-964754/",
+            "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2023/03/30971360137_4ba534c6ee_b.jpg",
+            "publishedAt": "2023-03-24T16:16:00Z",
+            "content": "Marburg Virus Outbreak: Tanzania And Equatorial Guinea Reports 17 Cases And 5 Deaths\r\nCountries of Tanzania and Equatorial Guinea reports cases and fatalities from the deadly Marburg Virus.\r\nTanzania… [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Bird flu: The next pandemic? • FRANCE 24 English - FRANCE 24 English",
+            "description": "It has ravaged farms, decimated wild birds and spilled onto mammals. Could the #avianflu spark the next human #pandemic? The Down to Earth team takes a close...",
+            "url": "https://www.youtube.com/watch?v=-iTiHopk0fU",
+            "urlToImage": "https://i.ytimg.com/vi/-iTiHopk0fU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSigzMA8=&rs=AOn4CLDlRI1tC6l3frOcccYjiKNaer6FHA",
+            "publishedAt": "2023-03-24T16:01:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Zarafshan Shiraz",
+            "title": "Heart disease risk factors and symptoms of a heart attack in women - Hindustan Times",
+            "description": "Some heart disease risk factors and symptoms in women can differ from those in men. Here are the risk factors and symptoms of heart disease in women that you should know | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/heart-disease-risk-factors-and-symptoms-of-a-heart-attack-in-women-101679668417293.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/24/1600x900/engin-akyurt-AS-ksEGPa2c-unsplash_1679670732628_1679670911763_1679670911763.jpg",
+            "publishedAt": "2023-03-24T15:37:57Z",
+            "content": "Heart disease is no longer a mans disease alone - it is the leading cause of death in women globally, more than all the cancers combined yet in women, it is still under recognized and under treated o… [+7438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healio"
+            },
+            "author": null,
+            "title": "World TB Day: Is TB vaccine and treatment research back on track? - Healio",
+            "description": "Throughout the COVID-19 pandemic, World TB Day, which is observed each year on March 23, has marked the need for more &mdash; more research, more testing, more treatment options, and more access for patients globally.",
+            "url": "https://www.healio.com/news/infectious-disease/20230324/world-tb-day-is-tb-vaccine-and-treatment-research-back-on-track",
+            "urlToImage": "https://www.healio.com/~/media/slack-news/infectious-disease/misc/infographics/2023/03_march/idn0323worldtbdayqagraphic01web.jpg",
+            "publishedAt": "2023-03-24T15:17:28Z",
+            "content": "We were unable to process your request. Please try again later. If you continue to have this issue please contact customerservice@slackinc.com.Back to Healio\r\nKey Takeaways:\r\n<ul><li>Currently, the p… [+8268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indiablooms.com"
+            },
+            "author": "Indiablooms",
+            "title": "Now you have more reason to listein to your favourite music as study reveals it enhances efficiency of certain medicines | Indiablooms - First Portal on Digital News Management - indiablooms",
+            "description": "MSU research reveals anti-nausea medicine is more effective when chemotherapy patients pair treatment with listening to their favorite music.",
+            "url": "https://www.indiablooms.com/health-details/H/12500/now-you-have-more-reason-to-listein-to-your-favourite-music-as-study-reveals-it-enhances-efficiency-of-certain-medicines.html",
+            "urlToImage": "https://www.indiablooms.com/health_pic/2023/c8a997c90f06db68b7e68614e1d0de41.jpg",
+            "publishedAt": "2023-03-24T15:15:01Z",
+            "content": "MSU research reveals anti-nausea medicine is more effective when chemotherapy patients pair treatment with listening to their favorite music. While listening to a favorite song is a known mood booste… [+2786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "FAST-SPREADING FUNGUS: Infections spreading at alarming rate, confirmed in Tennessee & Mississippi - FOX13 Memphis",
+            "description": "Fast-spreading, drug-resistant and deadly: The Centers for Disease Control and Prevention (CDC) is warning of a fungal infection that's spreading across the ...",
+            "url": "https://www.youtube.com/watch?v=oQdQeZf5oi0",
+            "urlToImage": "https://i.ytimg.com/vi/oQdQeZf5oi0/hqdefault.jpg",
+            "publishedAt": "2023-03-24T15:08:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Resa E. Lewiss, Adaira Landry",
+            "title": "Emergency doctors share 7 longevity foods they eat to stay 'healthy, full and energized' every day - CNBC",
+            "description": "Two emergency room doctors share the longevity foods they eat every day to stay healthy, full and energized during their busiest shifts.",
+            "url": "https://www.cnbc.com/2023/03/24/emergency-doctors-share-the-foods-they-eat-to-stay-healthy-full-and-energized-all-day.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107214727-1679665402303-GettyImages-1447384989_2.jpg?v=1679669495&w=1920&h=1080",
+            "publishedAt": "2023-03-24T14:51:35Z",
+            "content": "Most people assume doctors have perfect eating habits. But our days are busy and we rarely, if ever, have scheduled breaks. Many of us go entire shifts without sitting down to eat a full meal.\r\nTo av… [+2923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Avenuemail.in"
+            },
+            "author": null,
+            "title": "One Covid positive, two H3N2 cases found in Jamshedpur - Avenue Mail",
+            "description": "One Covid positive, two H3N2 cases found in Jamshedpur | Jamshedpur News | The Avenue Mail",
+            "url": "https://avenuemail.in/one-covid-positive-two-h3n2-cases-found-in-jamshedpur/",
+            "urlToImage": "https://i0.wp.com/avenuemail.in/wp-content/uploads/2023/03/H3n2.webp?fit=900%2C563&ssl=1",
+            "publishedAt": "2023-03-24T14:48:09Z",
+            "content": "Mail News Service\r\nJamshedpur, March 24: Corona cases are once again coming to the fore in East Singhbhum district of Jharkhand. Corona infection has been confirmed in a patient in the district. A 34… [+1422 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Having raw almonds before meals can help reduce glucose spike: A discussion with Dr Anoop Mishra and Dr Seema Gulati - Times of India",
+            "description": "Having 20 grams of almonds 30 min before meals can help drop glucose spike in Asian Indians, a new research study has found. Watch this video to know more about this from Dr Anoop Misra, Chairman, Fortis CDOC Hospital for Diabetes and Allied Sciences and Dr S…",
+            "url": "https://timesofindia.indiatimes.com/videos/lifestyle/health-fitness/having-raw-almonds-before-meals-can-help-reduce-glucose-spike-a-discussion-with-dr-anoop-mishra-and-dr-seema-gulati/videoshow/98975637.cms",
+            "urlToImage": "https://timesofindia.indiatimes.com/photo/98975637/size-77036/98975637.jpg",
+            "publishedAt": "2023-03-24T14:34:55Z",
+            "content": "Having 20 grams of almonds\r\n 30 min before meals can help drop glucose spike in Asian Indians, a new research study has found. Watch this video to know more about this from Dr Anoop Misra, Chairman, … [+187 chars]"
+        }
+    ]
+}
