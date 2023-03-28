@@ -15,9 +15,9 @@ const Health = (props) => {
         const getHealth = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.post('/api/health', { token: props.token });
-                if (response && response.data.token && response.data.health) {
-                    setHealth(response.data.health.articles);
+                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
+                if (response && response.data.articles) {
+                    setHealth(response.data.articles);
                 }
             } catch (error) {
                 console.error(error.message);

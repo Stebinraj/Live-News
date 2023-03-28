@@ -15,9 +15,9 @@ const Science = (props) => {
         const getScience = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.post('/api/science', { token: props.token });
-                if (response && response.data.token && response.data.science) {
-                    setScience(response.data.science.articles);
+                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
+                if (response && response.data.articles) {
+                    setScience(response.data.articles);
                 }
             } catch (error) {
                 console.error(error.message);

@@ -15,9 +15,9 @@ const Entertainment = (props) => {
         const getEntertainment = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.post('/api/entertainment',{ token: props.token });
-                if (response && response.data.token && response.data.entertainment) {
-                    setEntertainment(response.data.entertainment.articles);
+                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
+                if (response && response.data.articles) {
+                    setEntertainment(response.data.articles);
                 }
             } catch (error) {
                 console.error(error.message);

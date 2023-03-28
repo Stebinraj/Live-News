@@ -15,9 +15,9 @@ const Technology = (props) => {
         const getTechnology = async () => {
             try {
                 setIsLoading(true);
-                const response = await axios.post('/api/technology', { token: props.token });
-                if (response && response.data.token && response.data.technology) {
-                    setTechnology(response.data.technology.articles);
+                const response = await axios.get('https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=07cfe25429e84dc7bca88cb0e91f3bfe');
+                if (response && response.data.articles) {
+                    setTechnology(response.data.articles);
                 }
             } catch (error) {
                 console.error(error.message);

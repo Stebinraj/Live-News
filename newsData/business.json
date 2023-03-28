@@ -1,201 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 70,
+    "totalResults": 69,
     "articles": [
       {
         "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "Sreeradha Basu and Brinda Sarkar",
-        "title": "Companies woo women back to strengthen talent pool - The Economic Times",
-        "description": "Across sectors, the likes of KPMG in India, Larsen & Toubro, Genpact, JP Morgan, Tata Starbucks, among others, are stepping up programmes to help more women professionals make a comeback into the corporate world after a career break. This works at two levels:…",
-        "url": "https://economictimes.indiatimes.com/jobs/mid-career/companies-woo-women-back-to-strengthen-talent-pool/articleshow/99000491.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99000500,width-1070,height-580,imgsize-30974,overlay-economictimes/photo.jpg",
-        "publishedAt": "2023-03-25T18:57:59Z",
-        "content": "The pandemic saw more women drop out of the workforce than ever before: Now, companies are going the extra mile to get them back.Across sectors, the likes of KPMG in India, Larsen &amp; Toubro, Genpa… [+3701 chars]"
-      },
-      {
-        "source": {
           "id": null,
-          "name": "NDTV News"
+          "name": "CNBC"
         },
-        "author": null,
-        "title": "French Brand Launches Bag Made Of Real Meteorites, Costs Rs 35 Lakh - NDTV",
-        "description": "'Mini Meteorite Swipe Bag' is a limited-edition bag made of dark grey stone with an incorporated meteorite.",
-        "url": "https://www.ndtv.com/world-news/french-brand-launches-bag-made-of-real-meteorites-costs-rs-35-lakh-3893246",
-        "urlToImage": "https://c.ndtvimg.com/2023-03/6g1sqdo8_meteor-bag_625x300_25_March_23.jpg",
-        "publishedAt": "2023-03-25T16:01:47Z",
-        "content": "Many people have called the bag \"a work of art\".\r\nLuxury fashion companies are renowned for their innovative ideas. Luxurious goods, however, also have outrageous prices. Numerous things that went vi… [+1823 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Livemint",
-        "title": "These banks are offering 9% interest rate on fixed deposits to senior citizens | Mint - Mint",
-        "description": "Unity Small Finance Bank, Utkarsh Small Finance Bank and Fincare Small Finance Bank are now offering fixed deposit interest rates of 9 percent and higher.",
-        "url": "https://www.livemint.com/industry/banking/these-banks-are-offering-9-interest-rate-on-fixed-deposits-to-senior-citizens-11679753102803.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/25/600x338/Fixed_deposit_rates_1561114822692_1679757898049_1679757898049.jpg",
-        "publishedAt": "2023-03-25T15:25:35Z",
-        "content": "Banks have increased their fixed deposit rates after the central bank has hiked repo rates since May 2022. The FDs have emerged one of the safest investment options. Some banks are now offering fixed… [+1846 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NDTV News"
-        },
-        "author": null,
-        "title": "\"From Great To Mind-Blowingly Spectacular\": Aurora Over US Leaves Twitter Mesmerised - NDTV",
-        "description": "The Northern Lights, also known as aurora borealis, made a rare appearance in sky all throughout the United States as a result of a huge \"hole\" in the sun.",
-        "url": "https://www.ndtv.com/world-news/from-great-to-mind-blowingly-spectacular-aurora-over-us-leaves-twitter-mesmerised-3893088",
-        "urlToImage": "https://c.ndtvimg.com/2023-03/6at374ko_aurora_625x300_25_March_23.jpg",
-        "publishedAt": "2023-03-25T14:52:00Z",
-        "content": "Aurora borealis made a rare appearance.\r\nA large hole in the sun's corona caused a strong geomagnetic storm that seriously damaged the Earth's magnetic field. This incident served as the catalyst for… [+2720 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Team-BHP"
-        },
-        "author": "Tushar Kelshikar",
-        "title": "Toyota announces assured buyback offer on the Hilux - Team-BHP",
-        "description": "Toyota has announced an assured buyback offer on the Hilux. Customers can get a buyback value of up to 70% after 3 years from the date of purchase. Toyota is also offering special finance schemes on the Hilux through Toyota Financial Services, with EMIs start…",
-        "url": "https://www.team-bhp.com/news/toyota-announces-assured-buyback-offer-hilux",
-        "urlToImage": "https://www.team-bhp.com/sites/default/files/styles/large/public/2023-toyota-hilux-06_0.jpg",
-        "publishedAt": "2023-03-25T14:30:19Z",
-        "content": "Toyota has announced an assured buyback offer on the Hilux. Customers can get a buyback value of up to 70% after 3 years from the date of purchase.\r\nToyota is also offering special finance schemes on… [+774 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Greatandhra.com"
-        },
-        "author": "IANS",
-        "title": "Musk tried to take over OpenAI in 2018, but failed - Greatandhra",
-        "description": "Elon Musk tried to take control of OpenAI, the creator of ChatGPT, in early 2018 but Sam Altman and OpenAI's other founders rejected Musk's proposal.",
-        "url": "https://www.greatandhra.com/articles/special-articles/musk-tried-to-take-over-openai-in-2018-but-failed-128156",
-        "urlToImage": "https://www.greatandhra.com/newphotos10/elonmusk11679754258.jpg",
-        "publishedAt": "2023-03-25T14:24:18Z",
-        "content": "Elon Musk tried to take control of OpenAI, the creator of ChatGPT, in early 2018 but Sam Altman and OpenAI's other founders rejected Musk's proposal.\r\nMusk, in turn, walked away from the company and … [+1720 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "IANS",
-        "title": "Over 23,000 techies lose jobs in nearly 82 Indian startups to date - Indiatimes.com",
-        "description": "India Business News: NEW DELHI: As layoffs continue to deepen amid recession fears, more than 23,000 employees have been laid off by at least 82 startups in India, and the.",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/over-23000-techies-lose-jobs-in-nearly-82-indian-startups-to-date/articleshow/98997687.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-98997891,width-1070,height-580,imgsize-30394,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-03-25T14:08:00Z",
-        "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Moneycontrol"
-        },
-        "author": "Bloomberg",
-        "title": "Government hasn’t intervened in Adani crisis, says Sanjeev Sanyal - Moneycontrol",
-        "description": "The “government has not intervened anywhere,” Sanyal, a member of prime minister’s economic advisory council, said in an interview in New York. “Nobody’s having to rescue anyone in our system.”",
-        "url": "https://www.moneycontrol.com/news/business/indian-government-hasnt-intervened-in-adani-crisis-sanyal-says-10311281.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/Sanjeev-Sanyal-770x433.jpg",
-        "publishedAt": "2023-03-25T13:33:39Z",
-        "content": "The administration of India Prime Minister Narendra Modi hasnt intervened in the Adani Groups tussle with a US short seller that caused a rout in the companys shares, said Sanjeev Sanyal, an economic… [+1398 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "BusinessLine"
-        },
-        "author": "BusinessLine",
-        "title": "Index Outlook: Nifty 50, Sensex can fall more - The Hindu BusinessLine - BusinessLine",
-        "description": null,
-        "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/index-outlook-nifty-50-sensex-can-fall-more/article66660518.ece",
-        "urlToImage": null,
-        "publishedAt": "2023-03-25T13:28:05Z",
-        "content": null
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "PTI",
-        "title": "FM Sitharaman reviews public sector banks' performance amid global crisis - Hindustan Times",
-        "description": "FM Nirmala Sitharaman held a two hours meeting with MDs and CEOs of PSBs, an open discussion was held on the global scenario amid the failure of the Silicon Valley Bank (SVB) and Signature Bank (SB), along with the issues leading to the crisis in Credit Suiss…",
-        "url": "https://www.hindustantimes.com/business/fm-sitharaman-reviews-public-sector-banks-performance-amid-global-crisis-101679749156819.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/25/1600x900/ANI-20230325215-0_1679749298950_1679749298950_1679749323696_1679749323696.jpg",
-        "publishedAt": "2023-03-25T13:11:47Z",
-        "content": "Finance Minister Nirmala Sitharaman on Saturday reviewed the performance of public sector banks (PSBs) on various financial health parameters and their resilience in the wake of the current global fi… [+3171 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Tradebrains.in"
-        },
-        "author": "Trade Brains",
-        "title": "Stocks to Watch: 6 stocks that will trade Ex-dividend next week - Trade Brains",
-        "description": "Dividend refers to a reward, cash or otherwise, that a company gives to its shareholders. Dividends can be issued in various forms, such as cash payment, stocks or any other form. A company's dividend is decided by its board of directors and it requires the s…",
-        "url": "https://tradebrains.in/features/stocks-to-watch-6-stocks-that-will-trade-ex-dividend-next-week/",
-        "urlToImage": "https://tradebrains.in/features/wp-content/uploads/2022/03/Markets-7-Cover-Image.jpg",
-        "publishedAt": "2023-03-25T11:00:00Z",
-        "content": "What do we mean by Dividend? \r\nDividend refers to a reward, cash or otherwise, that a company gives to its shareholders. Dividends can be issued in various forms, such as cash payment, stocks or any … [+4378 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "Bloomberg",
-        "title": "Credit Suisse wouldn’t have lasted another day, minister says - Economic Times",
-        "description": "The impact of a disorderly bankruptcy may have been as much as double Swiss economic output, the minister said, citing expert estimates. More broadly, “we should have expected a global financial crisis” as “the crash of CS would have sent other banks into the…",
-        "url": "https://economictimes.indiatimes.com/news/international/business/credit-suisse-wouldnt-have-lasted-another-day-minister-says/articleshow/98993912.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-98993889,width-1070,height-580,imgsize-983633,overlay-economictimes/photo.jpg",
-        "publishedAt": "2023-03-25T10:46:00Z",
-        "content": "The Swiss government was compelled to intervene to save Credit Suisse Group AG as the troubled bank wouldnt have survived another day of trading amid a crisis of investor confidence, Finance Minister… [+2364 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "Ritu Maria Johny",
-        "title": "All-day café, spa, nap room: Inside Google's Gurugram office - Hindustan Times",
-        "description": "A Google employee shared a video tour of the luxurious new Google office in Gurugram, Haryana.",
-        "url": "https://www.hindustantimes.com/business/allday-caf-spa-nap-room-inside-google-s-gurugram-office-101679739726669.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/25/1600x900/google_gurugram_1679740242321_1679740264141_1679740264141.jpg",
-        "publishedAt": "2023-03-25T10:33:42Z",
-        "content": "Amidst massive layoffs across the tech sector, including in Google, a US-based Googler shared a sneak peak of the tech giants ultra-luxurious office in Gurugram, Haryana. Aaddyashree Kunchal, who wor… [+2405 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "Milan Vaishnav",
-        "title": "D-Street Week Ahead: Nifty must keep its head above 16,850-17,000 zone to avoid weakness - The Economic Times",
-        "description": "The Nifty Financial Services index is inside the weakening quadrant. However, some improvement is seen in its relative momentum. Besides this, Bank Nifty and PSU Bank indices are seen moving inside the weakening quadrant as well. The Nifty Metal, Media, Servi…",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-week-ahead-nifty-must-keep-its-head-above-16850-17000-zone-to-avoid-weakness/articleshow/98993043.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-98993316,width-1070,height-580,imgsize-79778,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-25T10:17:00Z",
-        "content": "It was a volatile but largely quiet week for the markets. Over the past five sessions, the markets were able to defend their opening lows and were trading flat until the last trading day of the week.… [+4249 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Vipul Das",
-        "title": "Penny stock hit fresh 52-week-low as Board declares record date for stock split | Mint - Mint",
-        "description": "Shree Securities Ltd is a small-cap company having a market cap of  ₹77.09 Cr and the company deals in the financial sector as a Non-Banking Financial Company (NBFC).",
-        "url": "https://www.livemint.com/market/stock-market-news/penny-stock-hit-fresh-52-week-low-as-board-declares-record-date-for-stock-split-11679737552613.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/25/600x338/KVP8IM6W_1600274980295_1600274984745_1679737588877_1679737588877.jpg",
-        "publishedAt": "2023-03-25T09:48:49Z",
-        "content": "Shree Securities Ltd is a small-cap company having a market cap of 77.09 Cr and the company deals in the financial sector as a Non-Banking Financial Company (NBFC). The company is listed on the Bomba… [+2226 chars]"
+        "author": "Holly Ellyatt",
+        "title": "European markets head for higher open as the region's banks are watched closely - CNBC",
+        "description": "European markets are heading for a higher open at the start of the new trading week, with the region's banks under scrutiny.",
+        "url": "https://www.cnbc.com/2023/03/27/european-markets-live-updates-stocks-news-data-and-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107197271-1676965133205-gettyimages-1246860381-FRANCE_LA_DEFENSE.jpeg?v=1679892062&w=1920&h=1080",
+        "publishedAt": "2023-03-27T06:26:00Z",
+        "content": "The recent banking turmoil could bring the U.S. closer to a recession, Minneapolis Fed president Neel Kashkari said in an interview with CBS' Face The Nation.\r\n\"It definitely brings us closer right n… [+1015 chars]"
       },
       {
         "source": {
@@ -203,64 +21,246 @@
           "name": "Moneycontrol"
         },
         "author": "Moneycontrol News",
-        "title": "Microsoft CEO Satya Nadella’s best career advice: ‘Don’t wait…’ - Moneycontrol",
-        "description": "Microsoft top boss Satya Nadella shares the attitude he maintained during his 30 years in the company and how is still learns every day. Read on find out more.",
-        "url": "https://www.moneycontrol.com/news/trends/satya-nadellas-best-career-advice-10309651.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-25-Mar-2023-02-05-PM-7030-770x433.jpg",
-        "publishedAt": "2023-03-25T08:40:53Z",
-        "content": "Satya Nadella joined Microsoft as a 22-year-old, with no ambition of becoming CEO. But he had clarity of thought and the right attitude, which set him up for success.\r\nIn an interview with LinkedIn C… [+1402 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "ET CONTRIBUTORS",
-        "title": "Nifty down 10% from highs! Why stop loss is important in a falling market - Economic Times",
-        "description": "For an investor, a stop loss doesnt make sense for the most part, because the idea is to hold for a long-time frame, which usually makes up for errors in stock selection or short-term collapse in prices.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-down-10-from-highs-why-stop-loss-is-important-in-a-falling-market/articleshow/98990561.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-98990645,width-1070,height-580,imgsize-134470,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-25T08:18:00Z",
-        "content": "Nifty50 fell more than 1% for the week ended March 24, dominated by weak global cues, and closed below 17,000. It has, meanwhile, plunged 10% from its December 2022 peak.Nifty50 hit a fresh record hi… [+2120 chars]"
+        "title": "First Citizens Bank buys deposits & loans of SVB: 7 things to know about the bank holding company - Moneycontrol",
+        "description": "First Citizens Bank submitted a bid for SVB immediately after its collapse and was also active in the data room the Federal Deposit Insurance Corporation (FDIC) set up for another sale process",
+        "url": "https://www.moneycontrol.com/news/business/first-citizens-buys-deposits-loans-of-svb-10-things-to-know-about-the-bank-holding-company-10316151.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/First-Citizen-Bank-770x433.png",
+        "publishedAt": "2023-03-27T05:27:16Z",
+        "content": "In a major development, First Citizens Bank &amp; Trust has agreed to acquire all deposits and loans of the troubled SVB Financial Groups Silicon Valley Bank, according to a Bloomberg report.\r\nThe le… [+1613 chars]"
       },
       {
         "source": {
           "id": null,
           "name": "Hindustan Times"
         },
-        "author": "Singh Rahul Sunilkumar",
-        "title": "Gordon Moore, pioneer of electronics, co-founder of Intel, dies at 94 - Hindustan Times",
-        "description": "Gordon Moore's powerful observation about semiconductor chips, commonly known as Moore's law, became a driving force behind the electronics industry's rapid development. The popular idea is revisited here.",
-        "url": "https://www.hindustantimes.com/technology/gordon-moore-pioneer-of-electronics-co-founder-of-intel-dies-at-94-remembering-legacy-shaped-by-moore-s-law-101679728702571.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/25/1600x900/gordon-moore_1679728722600_1679728745895_1679728745895.jpg",
-        "publishedAt": "2023-03-25T08:17:36Z",
-        "content": "Gordon Moore, co-founder of Intel and the man behind Moore's law, which defined the rate of invention in semiconductors, died on Friday aged 94 at his home in Hawaii. Intel and the Gordon and Betty M… [+2516 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Asit Manohar",
-        "title": "Udayshivakumar Infra IPO: What GMP signals as all eyes set on allotment date | Mint - Mint",
-        "description": "Udayshivakumar Infra IPO GMP today has risen despite negative sentiment at Indian stock markets for last two sessions",
-        "url": "https://www.livemint.com/market/ipo/udayshivkumar-infra-ipo-what-gmp-signals-as-all-eyes-set-on-allotment-date-11679730296183.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/25/600x338/Udayshivkumar_Infra_IPO_GMP_1679730381756_1679730381899_1679730381899.jpg",
-        "publishedAt": "2023-03-25T07:52:31Z",
-        "content": "Udayshivakumar Infra IPO: After closure of four days subscription of the initial public offering (IPO) of Udayshivakumar Infra Ltd, all eyes are now set on the Udayshivakumar Infra IPO allotment date… [+2090 chars]"
+        "author": "HT News Desk",
+        "title": "Mahua Moitra on Gautam Adani: 'How can govt take action…' - TMC MP's jab - Hindustan Times",
+        "description": "Last week Mahua Moitra shared a report from a British publication that said 'almost half (the Adani Group's) $5.7bn in FDI… came from opaque overseas entities'. | Latest News India",
+        "url": "https://www.hindustantimes.com/india-news/mahua-moitra-on-gautam-adani-how-can-govt-take-action-tmc-mp-tweets-101679892694007.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/27/1600x900/mahua_1675043584512_1679892745719_1679892745719.jpg",
+        "publishedAt": "2023-03-27T04:58:38Z",
+        "content": "Trinamool Congress MP Mahua Moitra kept up her criticism of the government Monday over the Adani-Hindenburg row, citing a written reply from the union finance ministry to the Rajya Sabha that said da… [+2713 chars]"
       },
       {
         "source": {
           "id": "the-times-of-india",
           "name": "The Times of India"
         },
-        "author": "TIMESOFINDIA.COM",
-        "title": "How ChatGPT Bug exposed more than just users' chat history, including credit card details - Indiatimes.com",
-        "description": "The information that the ChatGPT bug exposed during an outage earlier this week was more than just chat history. On March 20, Microsoft-backed OpenAI",
-        "url": "https://timesofindia.indiatimes.com/gadgets-news/how-chatgpt-bug-exposed-more-than-just-users-chat-history-including-credit-card-details/articleshow/98988791.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-98988771,width-1070,height-580,imgsize-57502,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-03-25T06:58:00Z",
-        "content": "<ul><li>News</li>\r\n<li>Gadgets News News</li>\r\n<li>How ChatGPT Bug exposed more than just users' chat history, including credit card details</li></ul>\r\nFOLLOW US ON SOCIAL MEDIAFacebookTwitterInstagr… [+15 chars]"
+        "author": "Bloomberg",
+        "title": "South Korea beating China in chip spend to reshape global semiconductor supply chain - Economic Times",
+        "description": "The shift underlines the struggle China is currently going through in securing crucial chip machines to improve upon its chips.",
+        "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/south-korea-to-surpass-china-in-chip-machine-spending-next-year/articleshow/99023886.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99023942,width-1070,height-580,imgsize-154852,overlay-etrise/photo.jpg",
+        "publishedAt": "2023-03-27T04:43:00Z",
+        "content": "South Korea is forecast to overtake China in spending on advanced chipmaking equipment next year in a sign of US export controls reshaping global supply chains for semiconductors.Korea will likely in… [+2486 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Ravindra Sonavane",
+        "title": "India's mcap drops below $3 trillion for the first time in nine months - Moneycontrol",
+        "description": "India's market capitalization currently stands at $2.99 trillion, a level last seen on 23 June 2022. It is currently ranked sixth among the top 10 most valued countries.",
+        "url": "https://www.moneycontrol.com/news/business/earnings/indias-mcap-drops-below-3-trillion-for-the-first-time-in-nine-month-10316021.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/12/markets-bloomberg-andy-770x433.jpg",
+        "publishedAt": "2023-03-27T04:23:18Z",
+        "content": "India's market capitalization has dipped below $3 trillion for the first time in nine months, primarily due to persistent selling pressure caused by the instability of banks in the US and Europe. Deu… [+5002 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "\"PM's Support Game Changer,\" Sunil Mittal After OneWeb Satellites Launched - NDTV",
+        "description": "Prime Minister Narendra Modi's timely intervention and the Indian government's support in making available ISRO rockets paved the way for Sunday's crucial launch of the final set of 36 satellites of OneWeb",
+        "url": "https://www.ndtv.com/india-news/narendra-modi-sunil-bharti-mittal-pms-support-game-changer-sunil-mittal-after-oneweb-satellites-launched-3895747",
+        "urlToImage": "https://c.ndtvimg.com/2020-06/ssogqg7g_sunil-mittal_625x300_30_June_20.jpg",
+        "publishedAt": "2023-03-27T04:10:38Z",
+        "content": "\"I have to compliment ISRO who have done a phenomenal job,\" Mr Mittal said.\r\nNew Delhi: Prime Minister Narendra Modi's timely intervention and the Indian government's support in making available ISRO… [+3909 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Moneycontrol News",
+        "title": "MC Insider: Consumer tech reality check, an over-sized pill, finfluencer faceoff, axe on recovery agents,... - Moneycontrol",
+        "description": "&quot;If it is too good to be true, it better be ignored. Investors who have lived by this rule have saved pots of money avoiding stocks that have promised the moon and not delivered.&quot;",
+        "url": "https://www.moneycontrol.com/news/business/companies/mc-insider-ipo-reversal-ignoring-too-good-to-be-true-stake-sale-in-jewellery-space-and-more-10315621.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/08/absolutvision-bSlHKWxxXak-unsplash-652x435.jpg",
+        "publishedAt": "2023-03-27T03:34:01Z",
+        "content": "A reversal of sorts\r\nIts ironic. In 2021 and 2022, when the tech frenzy was still playing out, investors were stampeding to get allocation in new age tech company IPOs even when there was no sight of… [+484 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GaadiWaadi.com"
+        },
+        "author": "Team GaadiWaadi",
+        "title": "List Of 2023 Hyundai Verna Features Expected In Creta Facelift - GaadiWaadi.com",
+        "description": "The facelifted Hyundai Creta will share quite a few features with the recently launched new-gen Hyundai Verna in India",
+        "url": "https://gaadiwaadi.com/list-of-2023-hyundai-verna-features-expected-in-creta-facelift/",
+        "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2022/12/hyundai-creta-facelift-2.jpg",
+        "publishedAt": "2023-03-27T03:27:59Z",
+        "content": "The new-Gen Hyundai Verna had been launched recently and it comes with an all-new design and loads of newly added features like Hyundais SmartSense level-two driver-assistance suite (ADAS), new cabin… [+2467 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ETMarkets.com",
+        "title": "Stocks to buy or sell today: 4 short-term trading ideas by experts for 27 March 2023 - The Economic Times",
+        "description": "“Options data suggests a broader trading range in between 16600 to 17300 zones while an immediate trading range in between 16700 to 17150 zones,” Chandan Taparia, Analyst-Derivatives at Motilal Oswal Financial Services Limited, said.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-or-sell-today-4-short-term-trading-ideas-by-experts-for-27-march-2023/articleshow/99022696.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99022691,width-1070,height-580,imgsize-53880,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-03-27T03:27:00Z",
+        "content": "Indian market is likely to trade higher on Monday tracking positive global cues.The S&amp;P BSE Sensex fell nearly 400 points while the Nifty50 closed below 17,000 levels on Friday.\r\nIndia VIX was up… [+1840 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Moneycontrol News",
+        "title": "Deutsche Bank's slump, relief for Paytm & a smallcap healthcare company | Market Minutes - Moneycontrol",
+        "description": "In this episode of Market Minutes, Shailaja Mohapatra talks about - Deutsche Bank's falling share price, relief for Paytm from RBI, Crompton Greaves Consumer Electricals and Butterfly Gandhimathi merger, and Sunil Singhania's stake buy in TTK Healthcare. Also…",
+        "url": "https://www.moneycontrol.com/news/podcast/deutsche-banks-slump-relief-for-paytm-a-smallcap-healthcare-company-market-minutes-10315291.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/market-minutes-TT-Asha-Shailaja-8-770x433.jpeg",
+        "publishedAt": "2023-03-27T03:10:19Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Shivendra Kumar",
+        "title": "F&O Ban: IB Housing Finance, HAL under ban for trade on Monday; Biocon exits - Economic Times",
+        "description": "The Nifty witnessed an extremely volatile day of trade on Friday. It was consolidating in a narrow range during the first half of the session. However, as the day progressed and especially during the last couple hours of the trading session the Nifty witnesse…",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fo-ban-ib-housing-finance-hal-under-ban-for-trade-on-monday-biocon-exits/articleshow/99022369.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99022361,width-1070,height-580,imgsize-11758,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-03-27T03:05:00Z",
+        "content": "Two stocks - Indiabulls Housing Finance and Hindustan Aeronautics (HAL) are under the F&amp;O ban on Monday, 27 March 2023, according to data available on the NSE. While HAL entered the F&amp;O ban l… [+2003 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Bloomberg",
+        "title": "Shrinking current account gap provides a reprieve for rupee - Moneycontrol",
+        "description": "Citigroup Inc. slashed its forecast even further to 1.4% of GDP from 2.2% previously, reflecting a steady drop in goods imports and strength in services exports.",
+        "url": "https://www.moneycontrol.com/news/business/markets/shrinking-current-account-gap-provides-a-reprieve-for-rupee-10315531.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/396897908-770x433.jpg",
+        "publishedAt": "2023-03-27T02:51:27Z",
+        "content": "Economists are lowering their forecasts for Indias current-account shortfall, thanks to favorable trade trends that are proving to be a blessing for the rupee currently among the worst performers in … [+2759 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GaadiWaadi.com"
+        },
+        "author": "Team GaadiWaadi",
+        "title": "Upcoming Tata Harrier Facelift Spied Showing New Details - GaadiWaadi.com",
+        "description": "Harrier underwent significant upgrades earlier this year, including ADAS; there may be other enhancements in the future",
+        "url": "https://gaadiwaadi.com/upcoming-tata-harrier-facelift-spied-showing-new-details/",
+        "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2023/03/tata-harrier-facelift-7.jpg",
+        "publishedAt": "2023-03-27T02:29:53Z",
+        "content": "Tata Harrier debuted in 2019 and underwent a model-year update last month that provided it with a BS6 phase 2 compliant diesel engine and new ADAS capabilities. The Harrier still has the same outward… [+2254 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": null,
+        "title": "Stocks to watch: Tata Steel, BEL, Paytm, Zydus Life, Crompton Greaves, NBCC - Business Standard",
+        "description": "Stocks to watch: From Tata Steel to Bharat Electronics, here are few stocks likely to see action in Monday's trading session",
+        "url": "https://www.business-standard.com/markets/news/stocks-to-watch-today-tata-steel-bel-paytm-zydus-life-crompton-greaves-nbcc-123032700081_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/misc/2023-03/21/full/market-stocks-stock-market-trading-stock-market-1679390136-76322620.jpg",
+        "publishedAt": "2023-03-27T02:12:00Z",
+        "content": "Unsubscribe to continue\r\nThis is a subscriber only feature Subscribe Now to get daily updates on WhatsApp"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Santosh Nair",
+        "title": "Short Call: Debt knell for AMCs? Bharat Electronics, copper prices, crude options - Moneycontrol",
+        "description": "Industry officials are expecting a deluge into debt funds this week as wealthy investors try to beat the March 31 deadline to take advantage of the tax and indexation benefits",
+        "url": "https://www.moneycontrol.com/news/business/markets/short-call-debt-knell-for-amcs-bharat-electronics-copper-prices-crude-options-10315331.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/bank_cards_banking_financial-services8-2-770x433.jpg",
+        "publishedAt": "2023-03-27T02:09:54Z",
+        "content": "I am an options trader, and I don't understand options. How do you want a regulator to understand them? ~ Nassim Nicholas Taleb\r\nSGX Nifty futures are indicating an upbeat start to the week, but trad… [+6943 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Sunil Shankar Matkar",
+        "title": "Top 10 stock ideas by experts as market falls to 8-month low - Moneycontrol",
+        "description": "Sameet believes traders can find ample opportunities in the beaten spaces and for investors, this decline would provide opportunity to accumulate quality stocks in a staggered manner.",
+        "url": "https://www.moneycontrol.com/news/business/markets/top-10-stock-ideas-by-experts-as-market-falls-to-8-month-low-10314851.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/10/buy-2-1-378x213-1.jpg",
+        "publishedAt": "2023-03-27T02:04:54Z",
+        "content": "The market has not shown any sign of strong rebound yet, as the recent recovery also failed and the benchmark Nifty closed at an eight-month low for the week ended March 24. Nervousness in global mar… [+9481 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Twitter Now Worth $20 Billion, Less Than Half Of What Elon Musk Paid - NDTV",
+        "description": "Elon Musk has put the current value of Twitter at $20 billion, less than half the $44 billion he paid for the social media platform just five months ago, according to an internal email seen by American news media.",
+        "url": "https://www.ndtv.com/india-news/twitter-now-worth-20-billion-less-than-half-of-what-elon-musk-paid-3895642",
+        "urlToImage": "https://c.ndtvimg.com/2022-11/vs6hsv1g_elon-musk-twitter-reuters_625x300_21_November_22.jpg",
+        "publishedAt": "2023-03-27T02:00:39Z",
+        "content": "In an internal email, Musk describes the brutal contraction in Twitter's value.\r\nNew York: Elon Musk has put the current value of Twitter at $20 billion, less than half the $44 billion he paid for th… [+1991 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Sunil Shankar Matkar",
+        "title": "Daily Voice | Shibani Kurian of Kotak AMC sees further downside risk of 6-7% for IT earnings growth if... - Moneycontrol",
+        "description": "Kotak Mahindra AMC remains positive on sectors deriving demand from domestic sources. These include large banks, capital goods, manufacturing and automobiles.",
+        "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-shibani-kurian-of-kotak-amc-sees-further-downside-risk-of-6-7-for-it-earnings-growth-if-global-banking-issues-escalate-10314061.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/Shibani-Kurian-Kotak-Mahindra-Asset-Management-Company-770x433.jpg",
+        "publishedAt": "2023-03-27T01:49:01Z",
+        "content": "\"With global macro uncertainties, the current consensus estimates on IT sector revenue growth (5.8 percent-8.2 percent YoY, constant currency) and margins for FY24 appear to bake in much of these con… [+8540 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investing.com"
+        },
+        "author": "Reuters",
+        "title": "ANZ CEO says banking turmoil has potential to trigger financial crisis By Reuters - Investing.com",
+        "description": "ANZ CEO: Banking turmoil has potential to trigger financial crisis",
+        "url": "https://www.investing.com/news/stock-market-news/anzs-ceo-says-banking-turmoil-has-potential-to-trigger-financial-crisis-3040134",
+        "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_L.jpg",
+        "publishedAt": "2023-03-27T01:46:00Z",
+        "content": "By Renju Jose\r\nSYDNEY (Reuters) -Australia and New Zealand Banking Group's CEO said on Monday the latest turmoil in the global banking system had the potential to trigger a financial crisis though it… [+2314 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Mehul R Thakkar",
+        "title": "Rustomjee Group plans invest Rs 1,000 crore by the end of the next fiscal in MMR: MD Boman Irani - Moneycontrol",
+        "description": "The company's exposure to redevelopment projects was 11 percent at the time of its IPO and may go up to 30 percent in the coming months, said Irani.",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/rustomjee-group-plans-invest-rs-1000-crore-by-the-end-of-the-next-fiscal-to-launch-2-5-million-saleable-sq-ft-in-mmr-md-boman-irani-10315011.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/Boman-Irani-Rustomjee-MD-389x435.jpeg",
+        "publishedAt": "2023-03-27T01:12:46Z",
+        "content": "Keystone Realtors, the listed arm of real estate developer Rustomjee Group, plans to invest Rs 1,000 crore by the end of 2023-24 to launch projects with a combined saleable area of 2.5 million sq ft … [+4959 chars]"
       }
     ]
   }
