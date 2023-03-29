@@ -1,45 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 62,
+    "totalResults": 70,
     "articles": [
       {
         "source": {
           "id": null,
-          "name": "India Today"
+          "name": "Devdiscourse"
         },
-        "author": "India Today Science Desk",
-        "title": "Parade of planets to begin tonight: These planets to be visible in skies from India - India Today",
-        "description": "The planets will line up from the horizon beginning with Jupiter, which could be seen around 7:30 pm in the evening sky.",
-        "url": "https://www.indiatoday.in/science/story/mercury-venus-uranus-mars-moon-jupiter-planet-sky-spotting-india-delhi-2351920-2023-03-27",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202303/iao_1-sixteen_nine.jpg?VersionId=7k5l9nP0gSEcTVauhJI..WrOepct3hZK",
-        "publishedAt": "2023-03-27T06:15:54Z",
-        "content": "By India Today Science Desk: Days after the Moon and Venus came together in a rare conjunction forming what appeared like an inverted chandrabindoo, four other planets are set to cross paths in the s… [+2578 chars]"
+        "author": "Devdiscourse News Desk",
+        "title": "Science News Roundup: Intriguing moon water source found in glass beads from impacts - Devdiscourse",
+        "description": "Read more about Science News Roundup: Intriguing moon water source found in glass beads from impacts on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/science-environment/2396074-science-news-roundup-intriguing-moon-water-source-found-in-glass-beads-from-impacts",
+        "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_10_2021_08_14_52_8303399.jpg?width=920&format=jpeg",
+        "publishedAt": "2023-03-28T04:58:22Z",
+        "content": "Following is a summary of current science news briefs.\r\nIntriguing moon water source found in glass beads from impacts\r\nGlass beads spawned in violent impacts from space rocks on the lunar surface ha… [+502 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "Geospatial World"
+          "name": "Hindustan Times"
         },
-        "author": "News Desk",
-        "title": "SpaceX launches 56 Starlink Internet Satellites - Geospatial World",
-        "description": "SpaceX launched its 20th mission of the year on March 24, sending 56 of its Starlink internet satellites skyward and landing the returning",
-        "url": "https://www.geospatialworld.net/news/spacex-launches-56-starlink-internet-satellites/",
-        "urlToImage": "https://www.geospatialworld.net/wp-content/uploads/2023/03/wsBjvjE3ZXT4DUHYwyQTXd-scaled.jpeg",
-        "publishedAt": "2023-03-27T05:49:51Z",
-        "content": "SpaceX launched its 20th mission of the year on March 24, sending 56 of its Starlink internet satellites skyward and landing the returning rocket on a ship at sea.\r\nA SpaceX Falcon 9 rocket topped wi… [+795 chars]"
+        "author": "AP",
+        "title": "Mercury, Jupiter, Venus, Uranus and Mars to line up in night sky-Where and When to watch - HT Tech",
+        "description": "Keep an eye to the sky this week for a chance to see a planetary hangout including Mercury, Jupiter, Venus, Uranus and Mars",
+        "url": "https://tech.hindustantimes.com/tech/news/mercury-jupiter-venus-uranus-and-mars-to-line-up-in-night-sky-where-and-when-to-watch-71679935475266.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/03/28/1600x900/pexels-lucas-pezeta-2034892_1676874841118_1679978839461_1679978839461.jpg",
+        "publishedAt": "2023-03-28T04:56:14Z",
+        "content": "Keep an eye to the sky this week for a chance to see a planetary hangout. Five planets Mercury, Jupiter, Venus, Uranus and Mars will line up near the moon.\r\nWHERE AND WHEN CAN YOU SEE THEM?\r\nThe best… [+1393 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "India Today"
+          "name": "Hindustan Times"
         },
-        "author": "India Today Science Desk",
-        "title": "Soil from asteroid that could swallow a spacecraft to fly down to Earth - India Today",
-        "description": "The samples of soil and pebbles from asteroid Bennu will be dropped into the Utah desert, bringing the seven-year-long mission to a close.",
-        "url": "https://www.indiatoday.in/science/story/asteroid-bennu-osiris-rex-mission-sample-return-capsule-nasa-2351906-2023-03-27",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202303/osiris-rex-sixteen_nine.jpg?VersionId=TWYErZB4kAu7kGNxQnkrfeomXaH0JalT",
-        "publishedAt": "2023-03-27T05:42:50Z",
-        "content": "By India Today Science Desk: Three years after it grabbed a sample of rock and soil from an asteroid floating in the vacuum of space, the Osiris-ReX mission is ready to drop it to Earth. The spacecra… [+3230 chars]"
+        "author": "HT Tech",
+        "title": "NASA reveals 58-ft Asteroid 2023 FU3 speeding towards Earth; may come dangerously close - HT Tech",
+        "description": "A menacing asteroid is hurtling towards Earth, and it will make a very close approach today. Know what NASA has revealed about this space rock.",
+        "url": "https://tech.hindustantimes.com/tech/news/nasa-reveals-58-ft-asteroid-2023-fu3-speeding-towards-earth-may-come-dangerously-close-71679978665234.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/03/28/1600x900/asteroid-7836952_1920_1679893091215_1679978747959_1679978747959.jpg",
+        "publishedAt": "2023-03-28T04:46:22Z",
+        "content": "As the solar system formed nearly 4.6 billion years ago, some rocks, which couldn't form into planets, were left behind. These space rocks are known as Asteroids. Asteroids have several shapes, they … [+1786 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Devdiscourse"
+        },
+        "author": "Devdiscourse News Desk",
+        "title": "NASA, Boeing to provide update on Starliner Crew Flight Test to space station - Devdiscourse",
+        "description": "Read more about NASA, Boeing to provide update on Starliner Crew Flight Test to space station on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/science-environment/2396048-nasa-boeing-to-provide-update-on-starliner-crew-flight-test-to-space-station",
+        "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_08_2022_11_32_56_8344802.jpg?width=920&format=jpeg",
+        "publishedAt": "2023-03-28T04:41:35Z",
+        "content": "NASA and Boeing will update the media on the progress of the Crew Flight Test (CFT) of the CST-100 Starliner spacecraft to the International Space Station.\r\nNASA's Boeing Crew Flight Test will take N… [+1155 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News18"
+        },
+        "author": "Adithyan P",
+        "title": "'Tsunami' in Venus's Clouds May Explain its Fast-moving Atmosphere - News18",
+        "description": "A team of Spanish scientists has led the first detailed study of the evolution of the discontinuity of Venus's clouds, that are like a gigantic atmospheric wave.",
+        "url": "https://www.news18.com/buzz/tsunami-in-venuss-clouds-may-explain-its-fast-moving-atmosphere-7401313.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/03/venus-2-167997627916x9.png",
+        "publishedAt": "2023-03-28T04:05:35Z",
+        "content": "A team of Spanish scientists has led the first detailed study of the evolution of the discontinuity of Venuss clouds, that are like a gigantic atmospheric wave. They found that the planets deepest cl… [+2130 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tech Explorist"
+        },
+        "author": "Tech Explorist",
+        "title": "NASA’S JWST measures the temperature of a rocky exoplanet - Tech Explorist",
+        "description": "An international team of researchers has used the NASA/ESA/CSA James Webb Space Telescope to measure the temperature of the rocky exoplanet TRAPPIST-1 b.",
+        "url": "https://www.techexplorist.com/nasa-james-webb-space-telescope-measures-temperature-of-rocky-exoplanet/58091/",
+        "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2023/03/Rocky-exoplanet-TRAPPIST-1-b.jpeg",
+        "publishedAt": "2023-03-28T03:52:21Z",
+        "content": "An international team of researchers has used the NASA/ESA/CSA James Webb Space Telescope to measure the temperature of the rocky exoplanet TRAPPIST-1 b. The measurement is based on the planets therm… [+10346 chars]"
       },
       {
         "source": {
@@ -47,90 +86,38 @@
           "name": "WION"
         },
         "author": "WION Web Team",
-        "title": "Aliens watching us through tiny probes, suggest Pentagon officials - WION",
-        "description": "Aliens watching us through tiny probes, suggest Pentagon officials",
-        "url": "https://www.wionews.com/science/aliens-watching-us-through-tiny-probes-suggest-pentagon-officials-576093",
-        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/03/27/341245-untitled-design-2023-03-27t103739964.png",
-        "publishedAt": "2023-03-27T05:17:01Z",
-        "content": "In a draft document, Pentagon officials last week suggested that aliens may be visiting our solar system and releasing tiny probes similar to the mission which NASA conducts to study other planets.\r\n… [+2448 chars]"
+        "title": "Leaky Soyuz capsule to return to Earth on Tuesday. Here`s where to watch it depart the ISS - WION",
+        "description": "Leaky Soyuz capsule to return to Earth on Tuesday. Heres where to watch it depart the ISS",
+        "url": "https://www.wionews.com/science/leaky-soyuz-capsule-to-return-to-earth-on-tuesday-heres-where-to-watch-it-depart-the-iss-576435",
+        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/03/28/341475-untitled-design-2022-12-15t124946795.png",
+        "publishedAt": "2023-03-28T03:25:00Z",
+        "content": "The Soyuz capsule which was in a space accident resulting in all its coolant leaking, will depart the International Space Station dock early on March 28. The Soyuz MS-22 spacecraft will remove itself… [+1953 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "WION"
-        },
-        "author": "WION Web Team",
-        "title": "What is the shape of our universe? New theory suggests it might not be flat after all - WION",
-        "description": "Is the universe really flat? New theory suggests otherwise",
-        "url": "https://www.wionews.com/science/what-is-the-shape-of-our-universe-new-theory-suggests-it-might-not-be-flat-after-all-576053",
-        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/03/27/341230-untitled-design-2023-03-27t090040890.png",
-        "publishedAt": "2023-03-27T03:06:52Z",
-        "content": "The universe still hides thousands of mysteries which the scientists on Earth have been trying to unravel for years. Now a new study on the shape of the universe has come up with an intriguing theory… [+2003 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NDTV News"
+          "name": "EurekAlert"
         },
         "author": null,
-        "title": "A Supermassive Blackhole Is Pointing Directly At Earth And Sending Powerful Radiation: Scientists - NDTV",
-        "description": "A team of international astronomers have reclassified a galaxy after finding that a supermassive black hole in its centre has changed direction and is now aiming towards the Earth.",
-        "url": "https://www.ndtv.com/science/a-supermassive-blackhole-is-pointing-directly-at-earth-and-sending-powerful-radiation-scientists-3895654",
-        "urlToImage": "https://c.ndtvimg.com/2023-03/74e58r9o_supermassive-black-hole_625x300_27_March_23.jpg",
-        "publishedAt": "2023-03-27T02:44:37Z",
-        "content": "It is unclear how the direction of the black hole will affect our galaxy.\r\nA team of international astronomers have reclassified a galaxy after finding that a supermassive black hole in its centre ha… [+1808 chars]"
+        "title": "Fast and low-cost computational method can monitor spread of antibiotic resistance over time - EurekAlert",
+        "description": "A new study in Antibiotics demonstrates a method for tracking the spread of genes for antimicrobial resistance among bacterial populations over time. The new computational technique relies on the rapidly increasing availability of bacterial genetic sequences …",
+        "url": "https://www.eurekalert.org/news-releases/984110",
+        "urlToImage": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8cabfb16-3f68-4a3b-a870-674fa794dcf4/Rendition/thumbnail/Content/Public",
+        "publishedAt": "2023-03-28T02:03:21Z",
+        "content": "image: DNA is made up of adenine-thymine (AT) bonds and guanine-cytosine (GC) bonds. The frequency of each type of bond differs substantially across bacterial species. A new study uses this quirk of … [+6664 chars]"
       },
       {
         "source": {
-          "id": null,
-          "name": "Abplive.com"
+          "id": "the-times-of-india",
+          "name": "The Times of India"
         },
-        "author": "Radifah Kabir",
-        "title": "'Tsunami' In Venus's Clouds May Be Playing A Role In The Planet's Fast Moving Atmosphere, Study Says - ABP Live",
-        "description": "An international team of scientists has led the first detailed study of the evolution of the discontinuity of Venus's clouds, which appears as a gigantic atmospheric wave.",
-        "url": "https://news.abplive.com/science/tsunami-in-venus-s-clouds-may-be-playing-a-role-in-the-planet-s-fast-moving-atmosphere-study-says-1591268",
-        "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/03/27/bf7cf059e35fc3156690cd45f055f9661679881854973324_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
-        "publishedAt": "2023-03-27T02:40:56Z",
-        "content": "Venus has a fast-moving atmosphere and a \"tsunami\" in its deepest clouds. Now, an international team of scientists has led the first detailed study of the evolution of the discontinuity of Venus's cl… [+3413 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Chemie.de"
-        },
-        "author": null,
-        "title": "First comparative study on automated analysis methods of large data sets in microplastics research - Chemie.de",
-        "description": "The lack of uniform analytical standards currently prevents the comparability of data on microplastics in the environment. Researchers from the University of Bayreuth and the Alfred Wegener Instit ...",
-        "url": "https://www.chemeurope.com/en/news/1179953/first-comparative-study-on-automated-analysis-methods-of-large-data-sets-in-microplastics-research.html",
-        "urlToImage": "https://img.chemie.de/Portal/News/641d6edce56c4_4Fjt3hvAM.png?tr=w-1210,h-909,cm-extract,x-21,y-0:n-xzoom",
-        "publishedAt": "2023-03-27T00:40:03Z",
-        "content": "The lack of uniform analytical standards currently prevents the comparability of data on microplastics in the environment. Researchers from the University of Bayreuth and the Alfred Wegener Institute… [+5118 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "SciTechDaily"
-        },
-        "author": null,
-        "title": "Revealing Quantum Properties of Radiation – 2D Interaction Takes Researchers by Surprise - SciTechDaily",
-        "description": "Technion researchers present the first-ever observation of the Cherenkov radiation phenomenon in a two-dimensional space. The researchers from the Andrew and Erna Viterbi Faculty of Electrical and Computer Engineering at the Technion – Israel Institute of Tec…",
-        "url": "https://scitechdaily.com/revealing-quantum-properties-of-radiation-2d-interaction-takes-researchers-by-surprise/",
-        "urlToImage": "https://scitechdaily.com/images/A-Single-Free-Electron-Propagates-Above-Special-Layered-Structure-scaled.jpg",
-        "publishedAt": "2023-03-27T00:11:58Z",
-        "content": "ByNanyang Technological UniversityMarch 26, 2023\r\nA single free electron propagates above the special layered structure that the researchers engineered, only a few tens of nanometers above it. During… [+6839 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "SciTechDaily"
-        },
-        "author": null,
-        "title": "This Week @NASA: Artemis II Moon Rocket, Moon Water Map, Gritty Clouds on Remote Planet - SciTechDaily",
-        "description": "The Artemis II Moon rocket is coming together … A high honor for some space explorers … And an intriguing find for the Webb Space Telescope … a few of the stories to tell you about – This Week at NASA! https://youtu.be/sjqhNMlbqsI Artemis II Moon Rocket Comin…",
-        "url": "https://scitechdaily.com/this-week-nasa-artemis-ii-moon-rocket-moon-water-map-gritty-clouds-on-remote-planet/",
-        "urlToImage": "https://scitechdaily.com/images/Exoplanet-VHS-1256-b-scaled.jpg",
-        "publishedAt": "2023-03-26T20:20:17Z",
-        "content": "ByNASAMarch 26, 2023\r\nResearchers observing with NASAs James Webb Space Telescope have pinpointed silicate cloud features in a distant planets atmosphere. The atmosphere is constantly rising, mixing,… [+5049 chars]"
+        "author": "Surendra Singh",
+        "title": "Scientists discover a supermassive black hole pointing directly at Earth - Times of India",
+        "description": "Science News: A team of international astronomers has made a groundbreaking discovery of a supermassive black hole, located 657 million light-years away in the PBC .",
+        "url": "https://timesofindia.indiatimes.com/home/science/team-of-astronomers-discover-a-supermassive-blackhole-pointingdirectly-at-earth/articleshow/99047399.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-99047388,width-1070,height-580,imgsize-32478,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-03-28T01:56:00Z",
+        "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Scientists discover a supermassive black hole pointing directly at Earth</li></ul>\r\nFOLLOW US ON SOCIAL MEDIAFacebookTwitterInstagramKOO APPYOUTUBE"
       },
       {
         "source": {
@@ -138,116 +125,51 @@
           "name": "ScienceAlert"
         },
         "author": "ScienceAlert",
-        "title": "Extreme Horizons in Space Could Lure Quantum States Into Reality - ScienceAlert",
+        "title": "Oldest Ichthyosaur Known to Science Discovered on Remote Arctic Island - ScienceAlert",
         "description": null,
-        "url": "https://www.sciencealert.com/extreme-horizons-in-space-could-lure-quantum-states-into-reality",
+        "url": "https://www.sciencealert.com/oldest-ichthyosaur-known-to-science-discovered-on-remote-arctic-island",
         "urlToImage": null,
-        "publishedAt": "2023-03-26T17:00:56Z",
+        "publishedAt": "2023-03-27T23:47:21Z",
         "content": null
       },
       {
         "source": {
           "id": null,
-          "name": "Universe Today"
+          "name": "Forbes"
         },
-        "author": "Scott Alan Johnston",
-        "title": "Asteroid Ryugu Contains Niacin (aka Vitamin B3) - Universe Today",
-        "description": "In December 2020, JAXA’s Hayabusa2 spacecraft delivered a pristine sample of otherworldly dust and rock from asteroid Ryugu to Earth. Scientists have since had the opportunity to study the sample, and announced last week that the asteroid contains organic mol…",
-        "url": "https://www.universetoday.com/160710/asteroid-ryugu-contains-niacin-aka-vitamin-b3/",
-        "urlToImage": "https://www.universetoday.com/wp-content/uploads/2023/03/P2281-Fig1-scaled.jpg",
-        "publishedAt": "2023-03-26T16:00:39Z",
-        "content": "In December 2020, JAXAs Hayabusa2 spacecraft delivered a pristine sample of otherworldly dust and rock from asteroid Ryugu to Earth. Scientists have since had the opportunity to study the sample, and… [+3574 chars]"
+        "author": "Jamie Carter",
+        "title": "How, When And Where To See A Rare Conjunction Of Venus And Uranus After Sunset This Week - Forbes",
+        "description": "Don’t miss this week’s conjunction of Venus and Uranus just after sunset.",
+        "url": "https://www.forbes.com/sites/jamiecartereurope/2023/03/27/how-when-and-where-to-see-a-rare-conjunction-of-venus-and-uranus-after-sunset-this-week/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/615b0eb9b8c542963579c049/0x0.jpg?format=jpg&crop=4828,2717,x0,y0,safe&width=1200",
+        "publishedAt": "2023-03-27T23:15:00Z",
+        "content": "Dont miss this weeks conjunction of Venus and Uranus just after sunset. \r\ngetty\r\nNext week the brightest planet and the seventh planet from the sun will appear very close to each other in the post-su… [+2470 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "SciTechDaily"
+          "name": "YouTube"
         },
         "author": null,
-        "title": "Ingenious Photosynthesis \"Hack\" Paves Way for Renewable Energy Breakthroughs - SciTechDaily",
-        "description": "Researchers have ‘hacked’ the earliest stages of photosynthesis, the natural machine that powers the vast majority of life on Earth, and discovered new ways to extract energy from the process, a finding that could lead to new ways of generating clean fuel and…",
-        "url": "https://scitechdaily.com/ingenious-photosynthesis-hack-paves-way-for-renewable-energy-breakthroughs/",
-        "urlToImage": "https://scitechdaily.com/images/Photosynthesis-Hack-New-Ways-of-Generating-Renewable-Energy.jpg",
-        "publishedAt": "2023-03-26T15:32:48Z",
-        "content": "ByUniversity of CambridgeMarch 26, 2023\r\nIn a groundbreaking development, researchers have successfully hacked the initial stages of photosynthesis the natural process that fuels the majority of life… [+7340 chars]"
+        "title": "Searching for Habitable Planets at Alpha Centauri with the TOLIMAN Mission - Fraser Cain",
+        "description": "We know about thousands of exoplanets by now. But it's still a mystery, whether there are planets in the Alpha Centauri binary system, which is just next doo...",
+        "url": "https://www.youtube.com/watch?v=jKDu4I0cLHE",
+        "urlToImage": "https://i.ytimg.com/vi/jKDu4I0cLHE/maxresdefault.jpg",
+        "publishedAt": "2023-03-27T22:42:26Z",
+        "content": null
       },
       {
         "source": {
           "id": null,
-          "name": "WION"
+          "name": "BGR"
         },
-        "author": "WION Web Team",
-        "title": "NASA's Perseverance rover sends eerie photo of dawn on Mars - WION",
-        "description": "NASAs Perseverance rover sends eerie photo of dawn on Mars",
-        "url": "https://www.wionews.com/science/nasa-perseverance-rover-sends-eerie-photo-of-dawn-on-mars-575949",
-        "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/03/26/341166-nasa-mars.jpg",
-        "publishedAt": "2023-03-26T14:24:09Z",
-        "content": "It's just before sunrise. Sunrays have gently started piercing the distant atmosphere and clouds can be seen moving in the early light. This can well be any morning right here on Earth. But thanks to… [+1315 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "SciTechDaily"
-        },
-        "author": null,
-        "title": "Cancer Breakthrough: How Genome Doubling Helps Cancer Develop - SciTechDaily",
-        "description": "A single cell holds 2-3 meters of DNA, necessitating a compact storage method. This is achieved through chromatin, a complex formed by DNA coiled around proteins called histones. In three-dimensional space, chromatin is intricately folded into a multi-layered…",
-        "url": "https://scitechdaily.com/cancer-breakthrough-how-genome-doubling-helps-cancer-develop/",
-        "urlToImage": "https://scitechdaily.com/images/Chromosomes-in-Cells-With-Whole-Genome-Doubling-scaled.jpg",
-        "publishedAt": "2023-03-26T14:11:11Z",
-        "content": "ByEcole Polytechnique Fédérale de LausanneMarch 26, 2023\r\nChromosomes in cells with whole genome doubling. Credit: Elisa Oricchio/Giovanni Ciriello (EPFL/UNIL)\r\nA single cell holds 2-3 meters of DNA\r… [+3461 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The Sentinel Assam"
-        },
-        "author": "Sentinel Digital Desk",
-        "title": "Boeing Starliner’s 1st crewed mission delayed till May - Sentinelassam - The Sentinel Assam",
-        "description": "In a tweet, Kathy Lueders, NASA Associate Administrator of Space Operations, said the CST-100...",
-        "url": "https://www.sentinelassam.com/business/boeing-starliners-1st-crewed-mission-delayed-till-may-642632",
-        "urlToImage": "https://assets.sentinelassam.com/h-upload/2023/03/26/446961-ckuesv5mnezqa3uwd5b4bb.jpg",
-        "publishedAt": "2023-03-26T14:06:59Z",
-        "content": "WASHINGTON: The first crewed flight of Boeings CST-100 Starliner has been delayed till May, NASA has announced. It was previously scheduled for late April, but has reportedly been delayed due to last… [+1419 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Phys.Org"
-        },
-        "author": "Jessica Heim",
-        "title": "Satellites and space junk may make dark night skies brighter, hindering astronomy and hiding stars from our view - Phys.org",
-        "description": "Since time immemorial, humans around the world have gazed up in wonder at the night sky. The starry night sky has not only inspired countless works of music, art and poetry, but has also played an important role in timekeeping, navigation and agricultural pra…",
-        "url": "https://phys.org/news/2023-03-satellites-space-junk-dark-night.html",
-        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/satellites-and-space-j.jpg",
-        "publishedAt": "2023-03-26T13:40:02Z",
-        "content": "Since time immemorial, humans around the world have gazed up in wonder at the night sky. The starry night sky has not only inspired countless works of music, art and poetry, but has also played an im… [+6172 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Republic World"
-        },
-        "author": "Harsh Vardhan",
-        "title": "Sun ejects strongest geomagnetic storm since 2017 triggering stunning auroras on Earth - Republic World",
-        "description": "The Sun released a 'severe' G4 class geomagnetic storm which triggered stunning auroras on Earth in higher as well as lower latitude areas.",
-        "url": "https://www.republicworld.com/science/space/sun-ejects-strongest-geomagnetic-storm-since-2017-triggering-stunning-auroras-on-earth-articleshow.html",
-        "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gkgdk3kbhkdgc1d9_1679834321.jpeg",
-        "publishedAt": "2023-03-26T13:03:00Z",
-        "content": "Earth was hit by a strong geomagnetic storm earlier this week and the event brought vibrant auroras to the polar regions. According to the National Oceanic and Atmospheric Administration (NOAA), the … [+2344 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Space.com"
-        },
-        "author": "Gemma Lavender",
-        "title": "What equipment do you need to see and photograph the planets - Space.com",
-        "description": "How to achieve the very best views and images of the neighboring worlds in our solar system.",
-        "url": "https://www.space.com/what-equipment-do-you-need-to-see-and-photograph-the-planets",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZYuMMSqF6Se9vqPZVTm7Yg-1200-80.jpg",
-        "publishedAt": "2023-03-26T13:00:30Z",
-        "content": "Ever wondered how to view and photograph the planets? Viewing the planets in our solar system is on every observer's hit list during a session under the night sky. Popular with beginners and seasoned… [+14023 chars]"
+        "author": "Joshua Hawkins, Joshua Hawkins",
+        "title": "This video of a 111000-mile-tall plasma tornado on the sun just blew my mind - BGR",
+        "description": "An astrophotographer captured a video of a 110,000-mile-tall plasma tornado on the Sun that has people mesmerized.",
+        "url": "https://bgr.com/science/this-video-of-a-111000-mile-tall-plasma-tornado-on-the-sun-just-blew-my-mind/",
+        "urlToImage": "https://bgr.com/wp-content/uploads/2021/12/AdobeStock_281795067.jpeg?quality=82&strip=all",
+        "publishedAt": "2023-03-27T20:11:00Z",
+        "content": "Earlier this month, astrophotographer Andrew McCarthy pointed his solar telescope at the Sun and captured a mesmerizing and terrifying sight. The result of those three hours of observation is a video… [+2047 chars]"
       },
       {
         "source": {
@@ -255,12 +177,90 @@
           "name": "Phys.Org"
         },
         "author": "Science X",
-        "title": "Two meteorites are providing a detailed look into outer space - Phys.org",
-        "description": "If you've ever seen a shooting star, you might have actually seen a meteor on its way to Earth. Those that land here are called meteorites and can be used to peek back in time, into the far corners of outer space or at the earliest building blocks of life. To…",
-        "url": "https://phys.org/news/2023-03-meteorites-outer-space.html",
-        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/outer-space.jpg",
-        "publishedAt": "2023-03-26T12:00:25Z",
-        "content": "If you've ever seen a shooting star, you might have actually seen a meteor on its way to Earth. Those that land here are called meteorites and can be used to peek back in time, into the far corners o… [+5304 chars]"
+        "title": "A machine learning framework to predict and quantify synthesis difficulties for designer chromosomes - Phys.org",
+        "description": "Artificially synthesizing genomes has broad prospects in fields such as medical research and developing industrial strains. From the synthesis of the artificial life JCVI-syn1.0 by Craig Venter's team in 2010, to the rewriting and synthesis of the prokaryotic…",
+        "url": "https://phys.org/news/2023-03-machine-framework-quantify-synthesis-difficulties.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-aided.jpg",
+        "publishedAt": "2023-03-27T19:42:03Z",
+        "content": "Artificially synthesizing genomes has broad prospects in fields such as medical research and developing industrial strains. From the synthesis of the artificial life JCVI-syn1.0 by Craig Venter's tea… [+3748 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Josh Dinner",
+        "title": "Saturn moon Titan could hold the clues to life's origin. This NASA drone could find them - Space.com",
+        "description": "The Dragonfly rotorcraft-lander will be one of NASA's most diversely capable planetary exploration craft.",
+        "url": "https://www.space.com/nasa-drone-saturn-moon-titan-search-for-life",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/dwbiBe96MECY6eBGUV8M8M-1200-80.jpg",
+        "publishedAt": "2023-03-27T19:22:50Z",
+        "content": "The fourth in a line of groundbreaking NASA missions that could redefine how we understand life in the universe is set to launch in 2027. \r\nNASA's Dragonfly drone is headed for Saturn's largest moon,… [+4779 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phys.Org"
+        },
+        "author": "Science X",
+        "title": "Human body is a breeding ground for antimicrobial resistance genes, shows new study - Phys.org",
+        "description": "The community of microbes living in and on our bodies may be acting as a reservoir for antibiotic resistance, according to new research from the Earlham Institute and Quadram Institute in Norwich. The work is published in the journal Nature Communications.",
+        "url": "https://phys.org/news/2023-03-human-body-ground-antimicrobial-resistance.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/human-body-a-breeding.jpg",
+        "publishedAt": "2023-03-27T19:10:04Z",
+        "content": "Two distinct clusters apparent in the global landscape of adult gut resistome profiles. a NMDS projection of BrayCurtis dissimilarities among the log-transformed ARG family profiles (cpg) in adult gu… [+7414 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phys.Org"
+        },
+        "author": "Kate Blackwood",
+        "title": "James Webb Space Telescope confirms giant planet atmospheres vary widely - Phys.org",
+        "description": "Gas giants orbiting our sun show a clear pattern; the more massive the planet, the lower the percentage of \"heavy\" elements (anything other than hydrogen and helium) in the planet's atmosphere. But out in the galaxy, the atmospheric compositions of giant plan…",
+        "url": "https://phys.org/news/2023-03-james-webb-space-telescope-giant.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/jwst-confirms-giant-pl.jpg",
+        "publishedAt": "2023-03-27T18:58:04Z",
+        "content": "Gas giants orbiting our sun show a clear pattern; the more massive the planet, the lower the percentage of \"heavy\" elements (anything other than hydrogen and helium) in the planet's atmosphere. But o… [+4725 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nature.com"
+        },
+        "author": null,
+        "title": "Radial-tangential mode of single-wall carbon nanotubes manifested by Landau regulation: reinterpretation of low- and intermediate-frequency Raman signals | Scientific Reports - Nature.com",
+        "description": "Scientific Reports - Radial-tangential mode of single-wall carbon nanotubes manifested by Landau regulation: reinterpretation of low- and intermediate-frequency Raman signals",
+        "url": "https://www.nature.com/articles/s41598-023-32018-4",
+        "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-32018-4/MediaObjects/41598_2023_32018_Fig1_HTML.jpg",
+        "publishedAt": "2023-03-27T18:37:12Z",
+        "content": "TEM and Raman analysis\r\nFigure 1 shows TEM images for Tuball-SWNTs. They appear as a bundle of tens of nm in diameter with a metal catalyst (white arrow in Fig. 1a), which is the same as those for th… [+10964 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Eric Mack",
+        "title": "Space Exploration Could Lower Home Energy Bills in Weird, Wonderful Ways - CNET",
+        "description": "Get ready for a future where we can live in houses made from mushrooms and powered by our own poo.",
+        "url": "https://www.cnet.com/home/energy-and-utilities/space-exploration-could-lower-home-energy-bills-in-weird-wonderful-ways/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/66c0333fc3af5f738bba02b7949de755dbf36c07/hub/2023/03/27/cec9d58b-1c5c-446c-8732-acc8d629d98d/vanadium-biomining.jpg?auto=webp&fit=crop&height=630&width=1200",
+        "publishedAt": "2023-03-27T18:14:06Z",
+        "content": "Scientists are looking into new ways microscopic organisms, like bacteria or other microbes, can make life in space, on the moon or on Mars more sustainable by helping with everything from producing … [+3639 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News-Medical.Net"
+        },
+        "author": null,
+        "title": "Understanding Mtb's nitrogen metabolism could pave the way for more effective TB treatments - News-Medical.Net",
+        "description": "Development of new drugs to effectively target the bacterium that causes tuberculosis (TB) could be one step closer following an important discovery from the University of Surrey.",
+        "url": "https://www.news-medical.net/news/20230327/Understanding-the-Mtbs-nitrogen-metabolism-could-pave-the-way-for-more-effective-TB-treatments.aspx",
+        "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Bacterial_infection_tuberculosis.red_cells_in_blue_background.AFB_3%2b_-_toeytoey_b32b49df7608432793064092cdd06996-620x480.jpg",
+        "publishedAt": "2023-03-27T18:10:00Z",
+        "content": "Development of new drugs to effectively target the bacterium that causes tuberculosis (TB) could be one step closer following an important discovery from the University of Surrey.\r\nThe Surrey study u… [+2660 chars]"
       }
     ]
   }
