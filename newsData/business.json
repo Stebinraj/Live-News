@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 69,
+    "totalResults": 70,
     "articles": [
       {
         "source": {
@@ -8,25 +8,129 @@
           "name": "Moneycontrol"
         },
         "author": "Moneycontrol",
-        "title": "Market LIVE Updates: Indices trade flat amid volatility; metals shine, power, oil & gas drag - Moneycontrol",
+        "title": "Market LIVE Updates: Indices trade higher amid volatility; mid, smallcaps outshine - Moneycontrol",
         "description": null,
-        "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-march-28-latest-news-bse-nse-sensex-nifty-covid-coronavirus-paytm-pnc-infratech-allcargol-logistics-dilip-buildcon-ugro-capital-supriya-lifescience-adani-10322261.html",
+        "url": "https://www.moneycontrol.com/news/business/markets/vedanta-jindal-stainless-zydus-lifesciences-nbcc-gr-infraprojects-rpp-infra-sml-isuzu-asian-energy-services-kalyan-jewellers-shalby-shilpa-medicare-c-e-info-systems-south-indian-bank-inox-wind-energy-10328471.html",
         "urlToImage": null,
-        "publishedAt": "2023-03-28T06:32:01Z",
+        "publishedAt": "2023-03-29T08:36:34Z",
         "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Meghna Sen",
+        "title": "TCS, Infosys, Wipro shares: Top IT stocks to buy, sell and hold amid macro concerns | Mint - Mint",
+        "description": "TCS remains its top stock pick, followed by HCLTech, and Infosys in the tier-1 IT space",
+        "url": "https://www.livemint.com/market/stock-market-news/tcs-infosys-wipro-shares-top-it-stocks-to-buy-sell-and-hold-amid-macro-concerns-11680070926522.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/29/600x338/indian_IT_stocks_1680074889297_1680074889508_1680074889508.jpg",
+        "publishedAt": "2023-03-29T07:32:22Z",
+        "content": "Technology-related spends are expected to remain muted over the near term amid challenging macro environment and concerns on stability of the overall banking industry, including trouble in Credit Sui… [+3082 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT Auto Desk",
+        "title": "Honda to launch 2 electric two-wheelers in India in FY24 with swappable battery - HT Auto",
+        "description": "Honda Motorcycle & Scooter India Pvt. Ltd. (HMSI) aims to produce one million electric two-wheelers annually by 2030.",
+        "url": "https://auto.hindustantimes.com/auto/electric-vehicles/honda-to-launch-2-electric-two-wheelers-in-india-in-fy24-with-swappable-battery-41680073716315.html",
+        "urlToImage": "https://images.hindustantimes.com/auto/img/2023/03/29/1600x900/Honda_EM1_e_1668158333186_1680075133774_1680075133774.jpg",
+        "publishedAt": "2023-03-29T07:19:38Z",
+        "content": "HMSI further said that it would manufacture the two electric vehicles for the Indian market at the Narasapura facility in Karnataka. Also, besides the Indian market, the auto company plans to export … [+1531 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Moneycontrol News",
+        "title": "ZEE, IndusInd Bank reach settlement, stock surges 4% as deal with Sony to go ahead - Moneycontrol",
+        "description": "Certain money has been paid as per the agreement already , second instalment to be paid by June 30.",
+        "url": "https://www.moneycontrol.com/news/business/stocks/zee-indusind-bank-reach-settlement-deal-with-sony-to-go-ahead-10331001.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/09/Zee-Entertainment-770x433.jpg",
+        "publishedAt": "2023-03-29T07:16:23Z",
+        "content": "Zee Entertainment Enterprises and IndusInd Bank informed the National Company Law Appellate Tribunal (NCLAT) that a settlement was reached between the two on March 29.\r\nAs per settlement agreement, p… [+2074 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBCTV18"
+        },
+        "author": "Anshul",
+        "title": "UPI payments new rule from April 1: Users will not be charged due to PPI interchange, clarifies NPCI - CNBCTV18",
+        "description": "Any Unified Payments Interface (UPI) transactions of more than Rs 2,000 made via prepaid payment instruments (PPI) like online wallets or pre-loaded gift cards, etc, will carry an interchange fee of up to 1.1 percent from April 1, 2023.",
+        "url": "https://www.cnbctv18.com/personal-finance/upi-transactions-over-rs-2000-charge-rule-from-april-1-faq-customers-fees-benefits-npci-16291181.htm",
+        "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2018/10/Mobile1-1019x573.jpg",
+        "publishedAt": "2023-03-29T07:03:07Z",
+        "content": "Next Article\r\nNPCI joins hands with payment aggregators to enable merchant transactions via credit cards on UPI"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "FXStreet"
+        },
+        "author": "Anil Panchal",
+        "title": "Gold Price Forecast: XAU/USD bears eye $1,930 as mixed sentiment underpins US Dollar rebound - FXStreet",
+        "description": "Gold price (XAU/USD) renews its intraday low around $1,960 as it reverses the previous day’s corrective bounce amid early Wednesday in Europe. The pre",
+        "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bears-eye-1-930-as-mixed-sentiment-underpins-us-dollar-rebound-202303290656",
+        "urlToImage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/safe-investment-gm147311616-17537479_Large.jpg",
+        "publishedAt": "2023-03-29T06:56:47Z",
+        "content": "<ul><li>Gold price takes offers to reverse the previous day’s corrective bounce off one-week low.</li><li>Geopolitical challenges to sentiment, mixed US data joins month-end positioning to recall US … [+2870 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Dinesh Unnikrishnan",
+        "title": "Exclusive| ‘No differences with the board’, clarifies South Indian Bank MD Murali Ramakrishnan on... - Moneycontrol",
+        "description": "Shares of the bank had fallen sharply on 29 March post the bank’s communication to stock exchanges. At the time of filing this copy, the shares were trading at Rs 14.25 apiece, down 13.9 per cent from the previous close.",
+        "url": "https://www.moneycontrol.com/news/business/no-differences-with-the-board-decision-to-not-seek-re-appointment-entirely-due-to-personal-reasons-murali-ramakrishnan-10330091.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/Murali-Ramakrishnan-770x433.png",
+        "publishedAt": "2023-03-29T06:15:01Z",
+        "content": "Kerala-based South Indian Banks outgoing Managing Director and chief executive officer (MD&amp;CEO) Murali Ramakrishnan on March 29 denied market speculations that his decision not to seek re-appoint… [+3907 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CarToq.com"
+        },
+        "author": "Shantonil Nag",
+        "title": "Skoda Slavia, Kushaq 1.5 TSI cars get new Ambition trim that’s a lot cheaper: Hyundai Verna effect? - CarToq.com",
+        "description": "Skoda has expanded the 1.5 TSI lineup of both its India 2.0 cars, the Slavia and the Kushaq, alongside launching the limited-run Kushaq Onyx Edition. Skoda will now offer the 1.5-liter TSI petrol engine with both 6-speed manual and 7-speed DCT gearbox options…",
+        "url": "https://www.cartoq.com/skoda-slavia-kushaq-1-5-tsi-cars-get-new-ambition-trim-thats-a-lot-cheaper-hyundai-verna-effect/",
+        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/03/KUSHAQ-SLAVIA_Ambition-1.5-featured-e1680069500928.jpeg",
+        "publishedAt": "2023-03-29T05:58:37Z",
+        "content": "Skoda has expanded the 1.5 TSI lineup of both its India 2.0 cars, the Slavia and the Kushaq, alongside launching the limited-run Kushaq Onyx Edition. Skoda will now offer the 1.5-liter TSI petrol eng… [+2642 chars]"
       },
       {
         "source": {
           "id": "the-times-of-india",
           "name": "The Times of India"
         },
-        "author": "ETMarkets.com",
-        "title": "Adani stocks lose up to 5%; all 10 counters in red. Here's why - The Economic Times",
-        "description": "The selloff in Adani stocks resumed after a report published by The Ken raised questions on whether the Ahmedabad-based conglomerate has actually repaid debt totaling $2.15 billion.  Despite the Adani Group's claim of “complete” repayment of $2.15 billion in …",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-stocks-lose-up-to-5-all-10-counters-in-red-heres-why/articleshow/99052128.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99052083,width-1070,height-580,imgsize-144256,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-28T05:25:00Z",
-        "content": "NEW DELHI: All 10 Adani Group stocks were trading lower on Tuesday with four of them, Adani Power, Adani Transmission, Adani Green and Adani Total Gas, locked in the 5% lower circuit limits.Shares of… [+1927 chars]"
+        "author": "Vidya Sreedhar",
+        "title": "Vedanta’s dividend payout fails to cheer Dalal Street bulls; here’s why - The Economic Times",
+        "description": "Adding to the concerns was CRISIL Ratings, who joined the club of global rating agencies by downgrading the outlook on Vedantas non-convertible debentures and long-term bank facilities to “negative” from “stable”.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedantas-dividend-payout-fails-to-cheer-dalal-street-bulls-heres-why/articleshow/99080736.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99080737,width-1070,height-580,imgsize-56840,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-03-29T05:55:00Z",
+        "content": "The interim dividend announced by Vedanta failed to cheer investors on Dalal Street, as they remain concerned about the groups burgeoning debt and the ability to refinance it.The stock was up just 1%… [+2259 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YourStory"
+        },
+        "author": "Sowmya Ramasubramanian",
+        "title": "GoMechanic acquired by Delhi-based auto parts maker Lifelong Group - YourStory",
+        "description": "The deal brings some respite to the Sequoia Capital and Tiger Global-backed car servicing startup as it battles the consequences of financial misreporting, insolvency pleas, and mistrust among employees and vendors.",
+        "url": "https://yourstory.com/2023/03/gomechanic-acquired-auto-parts-maker-lifelong-group",
+        "urlToImage": "https://images.yourstory.com/cs/2/79900dd0d91311e8a16045a90309d734/GoMechanic-1657006587617.jpg?fm=png&auto=format",
+        "publishedAt": "2023-03-29T05:49:15Z",
+        "content": "Just two months after car servicing startup GoMechanic admitted to financial irregularities and received a notice to initiate insolvency proceedings, the company has found an unlikely buyer.\r\nDelhi-b… [+4193 chars]"
       },
       {
         "source": {
@@ -34,102 +138,63 @@
           "name": "NDTV News"
         },
         "author": null,
-        "title": "Who Is Changpeng Zhao? Crypto Giant Binance Boss Sued By US Regulator - NDTV",
-        "description": "Crypto exchange Binance and its founder and CEO Changpeng Zhao have been sued by the US Commodity Futures Trading Commission (CFTC) for\"multiple violations\".",
-        "url": "https://www.ndtv.com/world-news/who-is-changpeng-zhao-crypto-giant-binance-boss-sued-by-us-regulator-3898853",
-        "urlToImage": "https://c.ndtvimg.com/2023-03/ltpnt4a8_binances-changpeng-zhao_625x300_28_March_23.jpg",
-        "publishedAt": "2023-03-28T05:23:00Z",
-        "content": "<li>Changpeng Zhao is the founder and current chief executive officer of Binance, the world's largest cryptocurrency exchange. He was born in China's Jiangsu province in 1977 and his parents were tea… [+843 chars]"
+        "title": "Less Than 1,000 Followers For Half Of Twitter Blue Subscribers, Reveals Report - NDTV",
+        "description": "Twitter Blue currently has 4,44,435 paying subscribers, and around 220,132 users have less than 1,000 followers",
+        "url": "https://www.ndtv.com/world-news/less-than-1-000-followers-for-half-of-twitter-blue-subscribers-reveals-report-3902099",
+        "urlToImage": "https://c.ndtvimg.com/2022-05/tepddd6_elon-musk-twitter-reuters_625x300_17_May_22.jpg",
+        "publishedAt": "2023-03-29T05:34:40Z",
+        "content": "Twitter is set to remove legacy verification checkmarks from the platform from April 1\r\nIt seems that the Twitter Blue subscription service has failed to attract verified Twitter users as a report ha… [+3076 chars]"
       },
       {
         "source": {
           "id": "the-times-of-india",
           "name": "The Times of India"
         },
-        "author": "Akash Podishetti",
-        "title": "Up 6,340%! Rs 1 lakh investment in this multibagger smallcap EV stock turned into Rs 64 lakh in just 10 ye - Economic Times",
-        "description": "The stock has seen strong buying at 565 level and made a high of Rs 743 on 10 March 2023. At present it is consolidating its previous gains. On the daily chart the momentum indicator viz RSI is trading flat, however the stock is showing higher Relative streng…",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/up-6340-rs-1-lakh-investment-in-this-multibagger-smallcap-ev-stock-turned-into-rs-64-lakh-in-just-10-years/articleshow/99051164.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99051174,width-1070,height-580,imgsize-523824,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-28T04:52:00Z",
-        "content": "Leading electric vehicle company Olectra Greentech has delivered bumper returns to investors over the past 10 years as the company's shares have risen by a massive 6,340% during this period. Accordin… [+3324 chars]"
+        "author": "ET Now",
+        "title": "What to do when EPS grows 25-30% but portfolio falls 15%? Saurabh Mukherjea answers - The Economic Times",
+        "description": "Saurabh Mukherjea, Founder of Marcellus Investment Managers recommends buying shares of companies that have been consistently compounding earnings year after year, but whose share prices have remained stagnant or fallen. He gives the example of HDFC Bank whic…",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/what-to-do-when-eps-grows-25-30-but-portfolio-falls-15-saurabh-mukherjea-answers/articleshow/99079752.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99079740,width-1070,height-580,imgsize-38498,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-03-29T05:22:00Z",
+        "content": "You buy more when share prices of companies that have been consistently compounding earnings year after year, are not moving or are going down. You buy more. Just look at HDFC Bank. In the last three… [+6564 chars]"
       },
       {
         "source": {
           "id": "the-times-of-india",
           "name": "The Times of India"
         },
-        "author": "ETMarkets.com",
-        "title": "Hot Stocks: Brokerages on Paytm, Ambuja Cements, Indian Hotels and PI Industries - The Economic Times",
-        "description": "Brokerage firms Morgan Stanley maintained an Equal-Weight rating on Paytm, Jefferies initiated a buy call on Ambuja Cements, UBS maintained its buy stance on Indian Hotels, and JM Financial maintained a buy rating on PI Industries.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hot-stocks-brokerages-on-paytm-ambuja-cements-indian-hotels-and-pi-industries/articleshow/99050563.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99050679,width-1070,height-580,imgsize-74210,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-28T04:32:00Z",
-        "content": "Brokerage firms Morgan Stanley maintained an Equal-Weight rating on Paytm, Jefferies initiated a buy call on Ambuja Cements, UBS maintained its buy stance on Indian Hotels, and JM Financial maintaine… [+2457 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "ETMarkets.com",
-        "title": "NSE, BSE put Adani Green under 2nd stage of long term ASM framework from Tuesday - The Economic Times",
-        "description": "The Adani group stocks have taken a beating after a report by US-based short-seller Hindenburg Research was published in January this year. The report had alleged fraudulent transactions and share-price manipulation against the group companies. The Group late…",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-bse-put-adani-green-under-2nd-stage-of-long-term-asm-framework-from-tuesday/articleshow/99049943.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99049993,width-1070,height-580,imgsize-18312,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-28T03:53:00Z",
-        "content": "Indian stock exchanges NSE and BSE put Adani Green Energy under the second stage of the long-term additional surveillance measure (ASM) framework from Tuesday.In two separate circulars, the bourses s… [+1458 chars]"
+        "author": "Reuters",
+        "title": "RBI to raise rates once more on April 6, stay on pause mode thereafter: Poll - Economic Times",
+        "description": "The Reserve Bank of India (RBI) is expected to raise its main interest rate by 25 basis points on 6 April, and then pause for the rest of the year, according to economists. Inflation in India has been above the central bank's upper limit of 6% for two consecu…",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-to-raise-rates-once-more-on-april-6-but-leave-door-open-for-more-poll/articleshow/99079760.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99079814,width-1070,height-580,imgsize-48844,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-03-29T05:20:00Z",
+        "content": "The Reserve Bank of India will raise its main interest rate by 25 basis points on April 6 and then pause for the rest of the year, according to a Reuters poll of economists who said the central bank … [+2783 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "Livemint"
+          "name": "India Today"
         },
-        "author": "Asit Manohar",
-        "title": "Vedanta dividend 2023: Board meet today to consider 5th interim dividend in FY23 | Mint - Mint",
-        "description": "Vedanta dividend 2023: The divided stock has already declared  ₹81 per share interim dividend in FY23",
-        "url": "https://www.livemint.com/market/stock-market-news/vedanta-dividend-2023-board-meet-today-to-consider-5th-interim-dividend-in-fy23-11679974305162.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/28/600x338/Vedanta_dividend_2023_1679974420258_1679974420483_1679974420483.jpg",
-        "publishedAt": "2023-03-28T03:44:18Z",
-        "content": "Vedanta dividend 2023: The board of directors of Vedanta Ltd is going to consider and approve interim dividend in its meeting scheduled today. The dividend stock has informed Indian bourses about the… [+2185 chars]"
+        "author": "India Today Business Desk",
+        "title": "Adani Group stocks recover day after falling sharply. Here’s why - India Today",
+        "description": "Adani Group made a strong recovery during Wednesday's trading session as shares of all 10 listed companies gained. Here is all you need to know.",
+        "url": "https://www.indiatoday.in/business/story/adani-group-stocks-recover-cfo-rejects-news-report-on-debt-repayments-2352840-2023-03-29",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202303/adani-group_2-sixteen_nine.png?VersionId=sj7djiDzTzuVJjQtb3fW0uvr5X3cxP_b",
+        "publishedAt": "2023-03-29T05:13:25Z",
+        "content": "By India Today Business Desk: Shares of all 10 listed companies of the Adani Group advanced on Tuesday, registering a strong recovery after yesterdays steep fall. \r\nAdani Enterprises, the flagship co… [+1965 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "Moneycontrol"
+          "name": "Entrackr"
         },
-        "author": "Bloomberg",
-        "title": "India’s $1-trillion bond market sees rising heft of insurers - Moneycontrol",
-        "description": "India is one of the fastest-growing insurance markets in the world and forecast to be the sixth biggest by 2032. Total insurance premiums will grow on average by 14 percent annually in nominal local-currency terms over the next decade",
-        "url": "https://www.moneycontrol.com/news/business/economy/indias-1-trillion-bond-market-sees-rising-heft-of-insurers-10322701.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/12/bond1.jpg",
-        "publishedAt": "2023-03-28T03:35:56Z",
-        "content": "The growing wealth of Indias public is leading to a crucial shift in its $1 trillion sovereign bond market.\r\nTheir savings channeled through life insurers, provident and pension funds are increasingl… [+5043 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "Kshitij Anand",
-        "title": "Big Movers on D-St: What should investors do with Tata Power, Cyient and Trident? - Economic Times",
-        "description": "Stocks that were in focus include names like Tata Power which fell more than 3%, Cyient which hit a fresh 52-week high and Trident which closed with a loss of more than 6% on Monday.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/big-movers-on-d-st-what-should-investors-do-with-tata-power-cyient-and-trident/articleshow/99049544.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99049530,width-1070,height-580,imgsize-107985,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-28T03:26:00Z",
-        "content": "Indian market closed higher on Monday tracking positive global cues. The S&amp;P BSE Sensex rose more than 100 points while Nifty50 closed close to 17000 levels.Sectorally, buying was seen in healthc… [+2016 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The Indian Express"
-        },
-        "author": "The Indian Express",
-        "title": "Gautam Adani acquires 49% in Quintillion Business Media for Rs 48 crore - The Indian Express",
+        "author": "Entrackr",
+        "title": "The Souled Store raises Rs 135 Cr from Xponentia Capital and others - Entrackr",
         "description": null,
-        "url": "https://indianexpress.com/article/business/companies/adani-acquires-49-per-cent-quintillion-business-media-for-rs-48-crore-8522385/",
+        "url": "https://entrackr.com/2023/03/the-souled-store-raises-rs-135-cr-from-xponentia-capital-and-others/",
         "urlToImage": null,
-        "publishedAt": "2023-03-28T03:11:35Z",
+        "publishedAt": "2023-03-29T05:10:00Z",
         "content": null
       },
       {
@@ -138,103 +203,25 @@
           "name": "Livemint"
         },
         "author": "Livemint",
-        "title": "Sebi extends nomination deadline for demat, trading accounts. Check details here | Mint - Mint",
-        "description": "Earlier, the date to comply with this rule was March 31, 2023",
-        "url": "https://www.livemint.com/news/india/sebi-extends-nomination-deadline-for-demat-trading-accounts-check-details-here-11679969106273.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/28/600x338/sebi_1679969437756_1679969438003_1679969438003.jpg",
-        "publishedAt": "2023-03-28T02:50:30Z",
-        "content": "The Securities and Exchange Board of India (SEBI) has extended the deadline for existing eligible trading and demat account holders to nominate a beneficiary for their accounts toSeptember  30, 2023.… [+1470 chars]"
+        "title": "Contagion risks loom over Adani Transmission and Adani Ports, says Fitch | Mint - Mint",
+        "description": "Adani Transmission Limited and Adani Ports and Special Economic Zone are prone to risks which could affect financial flexibility, said Fitch",
+        "url": "https://www.livemint.com/market/stock-market-news/contagion-risks-loom-over-adani-transmission-and-adani-ports-says-fitch-11680062013664.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/29/600x338/adani_stocks_1678771340143_1680062363707_1680062363707.jpg",
+        "publishedAt": "2023-03-29T04:01:10Z",
+        "content": "Ratings agency Fitch has said that two Adani Group subsidiaries are exposed to heightened contagion risks as a result of governance weakness at the conglomerate's sponsor level. Adani Transmission Li… [+1518 chars]"
       },
       {
         "source": {
           "id": null,
-          "name": "Moneycontrol"
+          "name": "Autocarindia.com"
         },
-        "author": "Santosh Nair",
-        "title": "Short Call: Power stocks, funds turn bearish on copper, no short covering rally - Moneycontrol",
-        "description": "Power stocks seemed to be among the safest of bets in this market till now. But shares of these companies too have been under pressure over the last few days.",
-        "url": "https://www.moneycontrol.com/news/business/markets/short-call-power-stocks-funds-turn-bearish-on-copper-no-short-covering-rally-10322361.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/bank_cards_banking_financial-services8-1-770x433.jpg",
-        "publishedAt": "2023-03-28T02:07:26Z",
-        "content": "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have or dont have in their portfolio ~ Nassim Nicholas Taleb\r\nOne day at a time. Thats how most traders and in… [+3846 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Asit Manohar",
-        "title": "Buy or sell: Vaishali Parekh recommends 3 stocks to buy today — March 28 | Mint - Mint",
-        "description": "Stock market today: Nifty is trading in tight 16,800 to 17,200 range, believes Vaishali Parekh of Prabhudas Lilladher",
-        "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-3-stocks-to-buy-today-march-28-11679967416735.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/28/600x338/Stock_market_news_1679967687687_1679967687902_1679967687902.jpg",
-        "publishedAt": "2023-03-28T01:46:16Z",
-        "content": "Buy or sell stocks for today: After logging losses for two successive days, Dalal Street finished higher on Monday. 50-stock index Nifty gained 40 points and closed at 16,985 levels, 30-stock index S… [+2388 chars]"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "Bloomberg",
-        "title": "Disney begins job cuts with goal of eliminating 7,000 positions - Indiatimes.com",
-        "description": "International Business News: Walt Disney Co. has begun the first of what is expected to be 7,000 job cuts, a key part of a $5.5 billion savings drive the company announced in Febr",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/disney-begins-job-cuts-with-goal-of-eliminating-7000-positions/articleshow/99047098.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-99047118,width-1070,height-580,imgsize-22198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-03-28T01:33:00Z",
-        "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
-      },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "Reuters",
-        "title": "Only verified accounts can vote in Twitter polls from April 15, says Elon Musk - Indiatimes.com",
-        "description": "International Business News: Elon Musk said on Monday only verified Twitter accounts would be eligible to vote in polls starting April 15, a move that the social media company's C.",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/only-verified-accounts-can-vote-in-twitter-polls-from-april-15-says-elon-musk/articleshow/99047025.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-99047021,width-1070,height-580,imgsize-31328,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-03-28T01:24:00Z",
-        "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Moneycontrol"
-        },
-        "author": "Sunil Shankar Matkar",
-        "title": "Trade Spotlight | How to trade in Glenmark Pharma, PNB Housing Finance, Triveni Engineering today - Moneycontrol",
-        "description": "PNB Housing Finance has formed long bearish candlestick pattern on the daily scale after breaking down bearish Flag and Pole pattern, generally indicating may be more weakness going ahead. Further it has decisively fallen below 200-day EMA (Rs 481) as well, t…",
-        "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-to-trade-in-glenmark-pharma-pnb-housing-finance-triveni-engineering-today-10320131.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/05/Healing-Space-54-Bouncebackability-markets-and-mental-health-bounce-back-770x433.jpg",
-        "publishedAt": "2023-03-28T01:17:40Z",
-        "content": "The market traded within a range throughout the session on Monday, though it rebounded after two days of correction and closed in green. Largely, the Nifty50 traded within Friday's range and finally … [+4412 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Alka Jain",
-        "title": "SBI received ₹8800 cr capital from Govt without asking for it: Report - Mint",
-        "description": "DFS infused  ₹831 crore into Bank of Maharashtra in 2019-20 against the bank's demand of  ₹798 crore to avoid the surrender of funds amounting to  ₹33 crore.",
-        "url": "https://www.livemint.com/news/india/sbi-received-rs-8-800-cr-capital-from-govt-without-asking-for-it-report-11679962739059.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/28/600x338/State_Bank_of_India_1679964429660_1679964429958_1679964429958.jpg",
-        "publishedAt": "2023-03-28T00:49:15Z",
-        "content": "The Department of Financial Services (DFS) had given 8,800 crore to the State Bank of India (SBI) as part of a recapitalization exercise without the country's biggest lender asking for such funds in … [+1755 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Moneycontrol"
-        },
-        "author": "Reuters",
-        "title": "S&P 500 ends up slightly; SVB deal lifts bank shares - Moneycontrol",
-        "description": "The S&amp;P 500 banks index (.SPXBK) rose 3.1%, while the KBW regional banking index (.KRX) ended up 0.6%.",
-        "url": "https://www.moneycontrol.com/news/business/markets/s-svb-deal-lifts-bank-shares-10322081.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/09/wall-street-770x433.jpg",
-        "publishedAt": "2023-03-28T00:34:28Z",
-        "content": "The S&amp;P 500 ended slightly higher on Monday as a deal for Silicon Valley Bank's assets helped to boost bank shares, while a decline in technology-related stocks limited the day's gains.\r\nThe S&am… [+2274 chars]"
+        "author": "Akbar Merchant",
+        "title": "Maruti Jimny on display in 9 Indian cities ahead of launch - Autocar India",
+        "description": "Dealer showcases are already underway and will end on April 7 to make way for the launch of the Fronx coupe SUV.",
+        "url": "https://www.autocarindia.com/car-news/maruti-jimny-on-display-in-9-indian-cities-ahead-of-launch-427704",
+        "urlToImage": "https://cdni.autocarindia.com/ExtraImages/20230329092657_JimnZ.jpg",
+        "publishedAt": "2023-03-29T03:50:00Z",
+        "content": "Dealer showcases are already underway and will end on April 7 to make way for the launch of the Fronx coupe SUV. Maruti Suzuki has two important SUV launches lined up for its Nexa outlets in the comi… [+3392 chars]"
       },
       {
         "source": {
@@ -242,25 +229,38 @@
           "name": "The Times of India"
         },
         "author": "ETMarkets.com",
-        "title": "SGX Nifty up 55 points; here's what changed for market while you were sleeping - Economic Times",
-        "description": "After turning buyers mid last week, FPIs have returned to their old ways by selling shares to the tune of Rs 890 crore on Monday. DIIs, on the other hand, too bought shares worth Rs 1,808 crore.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sgx-nifty-up-55-points-heres-what-changed-for-market-while-you-were-sleeping/articleshow/99040308.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-99040285,width-1070,height-580,imgsize-91161,overlay-etmarkets/photo.jpg",
-        "publishedAt": "2023-03-28T00:30:00Z",
-        "content": "Equity markets broke the two-day losing streak on Monday with marginal gains, but the upside was capped as investors remained cautious over financial stress in the US and Europe.The benchmark BSE Sen… [+2814 chars]"
+        "title": "Stocks to buy & sell today: 7 short-term trading ideas by experts for 29 March 2023 - The Economic Times",
+        "description": "On the monthly options front, the maximum Call OI is placed at 17000 and then toward 17100 strikes while the maximum Put OI is placed at 17000 and then towards 16800 strikes.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-sell-today-7-short-term-trading-ideas-by-experts-for-29-march-2023/articleshow/99077323.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-99077320,width-1070,height-580,imgsize-992855,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-03-29T03:35:00Z",
+        "content": "The Indian market is expected to trade flat on Wednesday tracking mixed global cues. The S&amp;P BSE Sensex and Nifty50 closed marginally in the red in the previous trading session.India VIX was down… [+1719 chars]"
       },
       {
         "source": {
           "id": "the-times-of-india",
           "name": "The Times of India"
         },
-        "author": "Somit Sen",
-        "title": "Maharashtra set to offer incentives to push e-vehicle purchase - Indiatimes.com",
-        "description": "Planning to buy an e-vehicle? You could expect some goodies coming your way. The state has come out with a government resolution to set up a panel to",
-        "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-set-to-offer-incentives-to-push-e-vehicle-purchase/articleshow/99046108.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-99046119,width-1070,height-580,imgsize-1978835,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2023-03-27T23:14:00Z",
-        "content": "Image used for representational purpose\r\nFOLLOW US ON SOCIAL MEDIAFacebookTwitterInstagramKOO APPYOUTUBE"
+        "author": "TNN",
+        "title": "Made-in-India iPhone shipments jump 162% - Indiatimes.com",
+        "description": "India Business News: Apple's 'Made in India' smartphone shipments grew 65% by volume and 162% by value in 2022 over the previous year, reflecting the extent of manufacturi",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/made-in-india-iphone-shipments-jump-162/articleshow/99076470.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-99076505,width-1070,height-580,imgsize-553351,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-03-29T02:56:00Z",
+        "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Devansh Sharma",
+        "title": "MC Insider: Debt fund tax fallout, changing MF rules, top executives bonding over food and more - Moneycontrol",
+        "description": "",
+        "url": "https://www.moneycontrol.com/news/business/mc-insider-debt-fund-tax-fallout-changing-mf-rules-top-executives-bonding-over-food-and-more-10328641.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/08/absolutvision-bSlHKWxxXak-unsplash-652x435.jpg",
+        "publishedAt": "2023-03-29T02:54:32Z",
+        "content": "This erstwhile sponsor of a mutual fund business got away in the nick of time. In around April 2022, it had sealed the deal with an East based buyer for the sale of its mutual fund (MF) business. By … [+1226 chars]"
       }
     ]
   }
